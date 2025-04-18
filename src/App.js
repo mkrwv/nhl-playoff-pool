@@ -38,6 +38,7 @@ function App() {
   const [opponentSearch, setOpponentSearch] = useState('');
   const [warning, setWarning] = useState('');
   const [pendingPick, setPendingPick] = useState(null);
+  const [copiedPlayer, setCopiedPlayer] = useState(null);
 
   useEffect(() => {
     document.title = 'Dadmobile Helper';
@@ -161,20 +162,13 @@ function App() {
           <option value="points">Sort by Points</option>
           <option value="ppg">Sort by PPG</option>
         </select>
-
-        <input
-          type="text"
-          placeholder="Search player..."
-          value={searchText}
-          onChange={(e) => setSearchText(e.target.value)}
-        />
       </div>
 
       <div className="status-bar subtle-warning">
         <p><strong>Picks Remaining:</strong> {remainingPicks}</p>
         {myDefense < 2 && (
           <p>
-            ⚠️ You need to pick {2 - myDefense} more defenseman{2 - myDefense > 1 ? 's' : ''}.
+            ⚠️ You need to pick {2 - myDefense} more defenseman.
           </p>
         )}
       </div>
@@ -188,7 +182,22 @@ function App() {
               const p = getPlayerInfo(name);
               return (
                 <li key={name}>
-                  {p.headshot && <img src={p.headshot} alt="headshot" className="team-logo" />} {p.name} ({p.team}, {p.position})
+                  <button 
+                    className="copy-button"
+                    onClick={() => {
+                      navigator.clipboard.writeText(`${p.name} (${p.team}, ${p.position})`);
+                      setCopiedPlayer(name);
+                      setTimeout(() => setCopiedPlayer(null), 1500);
+                    }}
+                    title="Copy to clipboard"
+                  >
+                    📋
+                  </button>
+                  <span className="player-text">
+                    {p.headshot && <img src={p.headshot} alt="headshot" className="team-logo" />} 
+                    {p.name} ({p.team}, {p.position})
+                  </span>
+                  {copiedPlayer === name && <span className="copied-label">Copied!</span>}
                   <button onClick={() => removeFromMyTeam(name)}>✕</button>
                 </li>
               );
@@ -224,7 +233,22 @@ function App() {
                 const p = getPlayerInfo(name);
                 return (
                   <li key={name}>
-                    {p.headshot && <img src={p.headshot} alt="headshot" className="team-logo" />} {p.name} ({p.team}, {p.position})
+                    <button 
+                      className="copy-button"
+                      onClick={() => {
+                        navigator.clipboard.writeText(`${p.name} (${p.team}, ${p.position})`);
+                        setCopiedPlayer(name);
+                        setTimeout(() => setCopiedPlayer(null), 1500);
+                      }}
+                      title="Copy to clipboard"
+                    >
+                      📋
+                    </button>
+                    <span className="player-text">
+                      {p.headshot && <img src={p.headshot} alt="headshot" className="team-logo" />} 
+                      {p.name} ({p.team}, {p.position})
+                    </span>
+                    {copiedPlayer === name && <span className="copied-label">Copied!</span>}
                     <button onClick={() => removeFromOpponent(name)}>✕</button>
                   </li>
                 );
@@ -235,6 +259,13 @@ function App() {
 
         <div className="column main">
           <h2>Available Players</h2>
+          <input
+            type="text"
+            placeholder="Search player..."
+            value={searchText}
+            onChange={(e) => setSearchText(e.target.value)}
+            style={{ marginBottom: '1rem', padding: '0.5rem', fontSize: '1rem', width: '100%' }}
+          />
           <div className="player-list">
             {filteredPlayers.map(p => {
               const isOpposing = myTeamOpposingTeams.has(p.team);

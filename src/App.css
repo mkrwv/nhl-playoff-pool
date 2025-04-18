@@ -118,7 +118,6 @@ h1, h2 {
   margin-bottom: 0.3rem;
   border-radius: 4px;
   display: flex;
-  justify-content: space-between;
   align-items: center;
   gap: 0.5rem;
 }
@@ -138,7 +137,6 @@ h1, h2 {
 
 .my-team li button,
 .opponent-picks li button {
-  margin-left: auto;
   background: transparent;
   border: none;
   font-size: 1rem;
@@ -169,13 +167,11 @@ h1, h2 {
   margin-right: 0.5rem;
 }
 
-/* Suggestions Dropdown */
 .opponent-picks ul li:hover {
   background-color: #f0d0d0;
   cursor: pointer;
 }
 
-/* Headshot / Team Logo styling */
 .team-logo {
   height: 24px;
   width: 24px;
@@ -185,7 +181,6 @@ h1, h2 {
   border: 1px solid #ccc;
 }
 
-/* Grey out players from opposing teams */
 .player.opposing-player {
   background-color: #f2f2f2 !important;
   color: #999;
@@ -195,7 +190,67 @@ h1, h2 {
   opacity: 0.6;
 }
 
-/* Responsive layout: swap columns */
+.status-bar {
+  margin-bottom: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #fffbe6;
+  border-left: 5px solid #ffcc00;
+  border-radius: 4px;
+  font-size: 0.95rem;
+}
+
+.status-bar p {
+  margin: 0.3rem 0;
+}
+
+.copy-button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+  color: #666;
+  padding: 0;
+}
+
+.copy-button:hover {
+  color: #000;
+}
+
+.player-text {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.copied-label {
+  font-size: 0.85rem;
+  color: green;
+  margin-left: auto;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 999;
+}
+
+.overlay-content {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  max-width: 400px;
+  text-align: center;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
 @media (max-width: 768px) {
   .columns {
     flex-direction: column;
@@ -223,26 +278,4 @@ h1, h2 {
     width: 100%;
     justify-content: space-between;
   }
-}
-/* Overlay Warning */
-.overlay {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(0, 0, 0, 0.5);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  z-index: 999;
-}
-
-.overlay-content {
-  background: white;
-  padding: 2rem;
-  border-radius: 8px;
-  max-width: 400px;
-  text-align: center;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
 }
