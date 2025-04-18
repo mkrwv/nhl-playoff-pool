@@ -1,0 +1,2850 @@
+[
+  {
+    "name": "Max Domi",
+    "team": "TOR",
+    "position": "C",
+    "points": 33,
+    "gamesPlayed": 73,
+    "ppg": 0.45
+  },
+  {
+    "name": "Pontus Holmberg",
+    "team": "TOR",
+    "position": "R",
+    "points": 18,
+    "gamesPlayed": 67,
+    "ppg": 0.27
+  },
+  {
+    "name": "Calle Jarnkrok",
+    "team": "TOR",
+    "position": "C",
+    "points": 6,
+    "gamesPlayed": 18,
+    "ppg": 0.33
+  },
+  {
+    "name": "David Kampf",
+    "team": "TOR",
+    "position": "C",
+    "points": 13,
+    "gamesPlayed": 59,
+    "ppg": 0.22
+  },
+  {
+    "name": "Matthew Knies",
+    "team": "TOR",
+    "position": "L",
+    "points": 56,
+    "gamesPlayed": 77,
+    "ppg": 0.73
+  },
+  {
+    "name": "Scott Laughton",
+    "team": "TOR",
+    "position": "L",
+    "points": 30,
+    "gamesPlayed": 79,
+    "ppg": 0.38
+  },
+  {
+    "name": "Steven Lorentz",
+    "team": "TOR",
+    "position": "C",
+    "points": 18,
+    "gamesPlayed": 79,
+    "ppg": 0.23
+  },
+  {
+    "name": "Mitch Marner",
+    "team": "TOR",
+    "position": "R",
+    "points": 100,
+    "gamesPlayed": 80,
+    "ppg": 1.25
+  },
+  {
+    "name": "Auston Matthews",
+    "team": "TOR",
+    "position": "C",
+    "points": 77,
+    "gamesPlayed": 66,
+    "ppg": 1.17
+  },
+  {
+    "name": "Bobby McMann",
+    "team": "TOR",
+    "position": "C",
+    "points": 34,
+    "gamesPlayed": 73,
+    "ppg": 0.47
+  },
+  {
+    "name": "William Nylander",
+    "team": "TOR",
+    "position": "R",
+    "points": 84,
+    "gamesPlayed": 81,
+    "ppg": 1.04
+  },
+  {
+    "name": "Max Pacioretty",
+    "team": "TOR",
+    "position": "L",
+    "points": 13,
+    "gamesPlayed": 37,
+    "ppg": 0.35
+  },
+  {
+    "name": "Nicholas Robertson",
+    "team": "TOR",
+    "position": "L",
+    "points": 22,
+    "gamesPlayed": 68,
+    "ppg": 0.32
+  },
+  {
+    "name": "John Tavares",
+    "team": "TOR",
+    "position": "C",
+    "points": 74,
+    "gamesPlayed": 74,
+    "ppg": 1
+  },
+  {
+    "name": "Simon Benoit",
+    "team": "TOR",
+    "position": "D",
+    "points": 10,
+    "gamesPlayed": 77,
+    "ppg": 0.13
+  },
+  {
+    "name": "Brandon Carlo",
+    "team": "TOR",
+    "position": "D",
+    "points": 12,
+    "gamesPlayed": 82,
+    "ppg": 0.15
+  },
+  {
+    "name": "Oliver Ekman-Larsson",
+    "team": "TOR",
+    "position": "D",
+    "points": 29,
+    "gamesPlayed": 77,
+    "ppg": 0.38
+  },
+  {
+    "name": "Jake McCabe",
+    "team": "TOR",
+    "position": "D",
+    "points": 23,
+    "gamesPlayed": 66,
+    "ppg": 0.35
+  },
+  {
+    "name": "Philippe Myers",
+    "team": "TOR",
+    "position": "D",
+    "points": 4,
+    "gamesPlayed": 35,
+    "ppg": 0.11
+  },
+  {
+    "name": "Morgan Rielly",
+    "team": "TOR",
+    "position": "D",
+    "points": 41,
+    "gamesPlayed": 81,
+    "ppg": 0.51
+  },
+  {
+    "name": "Chris Tanev",
+    "team": "TOR",
+    "position": "D",
+    "points": 17,
+    "gamesPlayed": 74,
+    "ppg": 0.23
+  },
+  {
+    "name": "Michael Amadio",
+    "team": "OTT",
+    "position": "R",
+    "points": 26,
+    "gamesPlayed": 71,
+    "ppg": 0.37
+  },
+  {
+    "name": "Drake Batherson",
+    "team": "OTT",
+    "position": "R",
+    "points": 65,
+    "gamesPlayed": 81,
+    "ppg": 0.8
+  },
+  {
+    "name": "Nick Cousins",
+    "team": "OTT",
+    "position": "C",
+    "points": 14,
+    "gamesPlayed": 49,
+    "ppg": 0.29
+  },
+  {
+    "name": "Dylan Cozens",
+    "team": "OTT",
+    "position": "C",
+    "points": 44,
+    "gamesPlayed": 81,
+    "ppg": 0.54
+  },
+  {
+    "name": "Adam Gaudette",
+    "team": "OTT",
+    "position": "R",
+    "points": 24,
+    "gamesPlayed": 80,
+    "ppg": 0.3
+  },
+  {
+    "name": "Claude Giroux",
+    "team": "OTT",
+    "position": "R",
+    "points": 50,
+    "gamesPlayed": 80,
+    "ppg": 0.63
+  },
+  {
+    "name": "Ridly Greig",
+    "team": "OTT",
+    "position": "C",
+    "points": 33,
+    "gamesPlayed": 77,
+    "ppg": 0.43
+  },
+  {
+    "name": "Matthew Highmore",
+    "team": "OTT",
+    "position": "C",
+    "points": 6,
+    "gamesPlayed": 41,
+    "ppg": 0.15
+  },
+  {
+    "name": "David Perron",
+    "team": "OTT",
+    "position": "L",
+    "points": 16,
+    "gamesPlayed": 42,
+    "ppg": 0.38
+  },
+  {
+    "name": "Shane Pinto",
+    "team": "OTT",
+    "position": "C",
+    "points": 36,
+    "gamesPlayed": 69,
+    "ppg": 0.52
+  },
+  {
+    "name": "Tim Stützle",
+    "team": "OTT",
+    "position": "C",
+    "points": 76,
+    "gamesPlayed": 81,
+    "ppg": 0.94
+  },
+  {
+    "name": "Brady Tkachuk",
+    "team": "OTT",
+    "position": "L",
+    "points": 55,
+    "gamesPlayed": 71,
+    "ppg": 0.77
+  },
+  {
+    "name": "Fabian Zetterlund",
+    "team": "OTT",
+    "position": "L",
+    "points": 40,
+    "gamesPlayed": 83,
+    "ppg": 0.48
+  },
+  {
+    "name": "Thomas Chabot",
+    "team": "OTT",
+    "position": "D",
+    "points": 45,
+    "gamesPlayed": 80,
+    "ppg": 0.56
+  },
+  {
+    "name": "Dennis Gilbert",
+    "team": "OTT",
+    "position": "D",
+    "points": 6,
+    "gamesPlayed": 28,
+    "ppg": 0.21
+  },
+  {
+    "name": "Travis Hamonic",
+    "team": "OTT",
+    "position": "D",
+    "points": 7,
+    "gamesPlayed": 58,
+    "ppg": 0.12
+  },
+  {
+    "name": "Nick Jensen",
+    "team": "OTT",
+    "position": "D",
+    "points": 21,
+    "gamesPlayed": 70,
+    "ppg": 0.3
+  },
+  {
+    "name": "Tyler Kleven",
+    "team": "OTT",
+    "position": "D",
+    "points": 9,
+    "gamesPlayed": 78,
+    "ppg": 0.12
+  },
+  {
+    "name": "Nikolas Matinpalo",
+    "team": "OTT",
+    "position": "D",
+    "points": 4,
+    "gamesPlayed": 40,
+    "ppg": 0.1
+  },
+  {
+    "name": "Jake Sanderson",
+    "team": "OTT",
+    "position": "D",
+    "points": 55,
+    "gamesPlayed": 79,
+    "ppg": 0.7
+  },
+  {
+    "name": "Artem Zub",
+    "team": "OTT",
+    "position": "D",
+    "points": 13,
+    "gamesPlayed": 56,
+    "ppg": 0.23
+  },
+  {
+    "name": "Cam Atkinson",
+    "team": "TBL",
+    "position": "R",
+    "points": 9,
+    "gamesPlayed": 38,
+    "ppg": 0.24
+  },
+  {
+    "name": "Oliver Bjorkstrand",
+    "team": "TBL",
+    "position": "R",
+    "points": 46,
+    "gamesPlayed": 79,
+    "ppg": 0.58
+  },
+  {
+    "name": "Mitchell Chaffee",
+    "team": "TBL",
+    "position": "R",
+    "points": 18,
+    "gamesPlayed": 66,
+    "ppg": 0.27
+  },
+  {
+    "name": "Anthony Cirelli",
+    "team": "TBL",
+    "position": "C",
+    "points": 59,
+    "gamesPlayed": 79,
+    "ppg": 0.75
+  },
+  {
+    "name": "Conor Geekie",
+    "team": "TBL",
+    "position": "C",
+    "points": 14,
+    "gamesPlayed": 51,
+    "ppg": 0.27
+  },
+  {
+    "name": "Zemgus Girgensons",
+    "team": "TBL",
+    "position": "C",
+    "points": 6,
+    "gamesPlayed": 81,
+    "ppg": 0.07
+  },
+  {
+    "name": "Luke Glendening",
+    "team": "TBL",
+    "position": "C",
+    "points": 7,
+    "gamesPlayed": 77,
+    "ppg": 0.09
+  },
+  {
+    "name": "Gage Goncalves",
+    "team": "TBL",
+    "position": "C",
+    "points": 20,
+    "gamesPlayed": 59,
+    "ppg": 0.34
+  },
+  {
+    "name": "Yanni Gourde",
+    "team": "TBL",
+    "position": "C",
+    "points": 31,
+    "gamesPlayed": 56,
+    "ppg": 0.55
+  },
+  {
+    "name": "Jake Guentzel",
+    "team": "TBL",
+    "position": "C",
+    "points": 80,
+    "gamesPlayed": 79,
+    "ppg": 1.01
+  },
+  {
+    "name": "Brandon Hagel",
+    "team": "TBL",
+    "position": "L",
+    "points": 90,
+    "gamesPlayed": 81,
+    "ppg": 1.11
+  },
+  {
+    "name": "Nikita Kucherov",
+    "team": "TBL",
+    "position": "R",
+    "points": 121,
+    "gamesPlayed": 77,
+    "ppg": 1.57
+  },
+  {
+    "name": "Nick Paul",
+    "team": "TBL",
+    "position": "L",
+    "points": 41,
+    "gamesPlayed": 75,
+    "ppg": 0.55
+  },
+  {
+    "name": "Brayden Point",
+    "team": "TBL",
+    "position": "C",
+    "points": 82,
+    "gamesPlayed": 76,
+    "ppg": 1.08
+  },
+  {
+    "name": "Erik Cernak",
+    "team": "TBL",
+    "position": "D",
+    "points": 21,
+    "gamesPlayed": 75,
+    "ppg": 0.28
+  },
+  {
+    "name": "Victor Hedman",
+    "team": "TBL",
+    "position": "D",
+    "points": 66,
+    "gamesPlayed": 78,
+    "ppg": 0.85
+  },
+  {
+    "name": "Emil Lilleberg",
+    "team": "TBL",
+    "position": "D",
+    "points": 19,
+    "gamesPlayed": 75,
+    "ppg": 0.25
+  },
+  {
+    "name": "Ryan McDonagh",
+    "team": "TBL",
+    "position": "D",
+    "points": 31,
+    "gamesPlayed": 81,
+    "ppg": 0.38
+  },
+  {
+    "name": "J.J. Moser",
+    "team": "TBL",
+    "position": "D",
+    "points": 14,
+    "gamesPlayed": 53,
+    "ppg": 0.26
+  },
+  {
+    "name": "Nick Perbix",
+    "team": "TBL",
+    "position": "D",
+    "points": 19,
+    "gamesPlayed": 73,
+    "ppg": 0.26
+  },
+  {
+    "name": "Darren Raddysh",
+    "team": "TBL",
+    "position": "D",
+    "points": 37,
+    "gamesPlayed": 72,
+    "ppg": 0.51
+  },
+  {
+    "name": "Aleksander Barkov",
+    "team": "FLA",
+    "position": "C",
+    "points": 71,
+    "gamesPlayed": 67,
+    "ppg": 1.06
+  },
+  {
+    "name": "Sam Bennett",
+    "team": "FLA",
+    "position": "C",
+    "points": 51,
+    "gamesPlayed": 76,
+    "ppg": 0.67
+  },
+  {
+    "name": "Jesper Boqvist",
+    "team": "FLA",
+    "position": "C",
+    "points": 23,
+    "gamesPlayed": 78,
+    "ppg": 0.29
+  },
+  {
+    "name": "Jonah Gadjovich",
+    "team": "FLA",
+    "position": "L",
+    "points": 4,
+    "gamesPlayed": 42,
+    "ppg": 0.1
+  },
+  {
+    "name": "A.J. Greer",
+    "team": "FLA",
+    "position": "L",
+    "points": 17,
+    "gamesPlayed": 81,
+    "ppg": 0.21
+  },
+  {
+    "name": "Anton Lundell",
+    "team": "FLA",
+    "position": "C",
+    "points": 45,
+    "gamesPlayed": 79,
+    "ppg": 0.57
+  },
+  {
+    "name": "Eetu Luostarinen",
+    "team": "FLA",
+    "position": "C",
+    "points": 24,
+    "gamesPlayed": 80,
+    "ppg": 0.3
+  },
+  {
+    "name": "Brad Marchand",
+    "team": "FLA",
+    "position": "C",
+    "points": 51,
+    "gamesPlayed": 71,
+    "ppg": 0.72
+  },
+  {
+    "name": "Tomas Nosek",
+    "team": "FLA",
+    "position": "L",
+    "points": 9,
+    "gamesPlayed": 59,
+    "ppg": 0.15
+  },
+  {
+    "name": "Sam Reinhart",
+    "team": "FLA",
+    "position": "C",
+    "points": 81,
+    "gamesPlayed": 79,
+    "ppg": 1.03
+  },
+  {
+    "name": "Evan Rodrigues",
+    "team": "FLA",
+    "position": "C",
+    "points": 32,
+    "gamesPlayed": 82,
+    "ppg": 0.39
+  },
+  {
+    "name": "Mackie Samoskevich",
+    "team": "FLA",
+    "position": "R",
+    "points": 31,
+    "gamesPlayed": 72,
+    "ppg": 0.43
+  },
+  {
+    "name": "Nico Sturm",
+    "team": "FLA",
+    "position": "C",
+    "points": 14,
+    "gamesPlayed": 62,
+    "ppg": 0.23
+  },
+  {
+    "name": "Matthew Tkachuk",
+    "team": "FLA",
+    "position": "L",
+    "points": 57,
+    "gamesPlayed": 52,
+    "ppg": 1.1
+  },
+  {
+    "name": "Carter Verhaeghe",
+    "team": "FLA",
+    "position": "C",
+    "points": 53,
+    "gamesPlayed": 81,
+    "ppg": 0.65
+  },
+  {
+    "name": "Uvis Balinskis",
+    "team": "FLA",
+    "position": "D",
+    "points": 18,
+    "gamesPlayed": 76,
+    "ppg": 0.24
+  },
+  {
+    "name": "Gustav Forsling",
+    "team": "FLA",
+    "position": "D",
+    "points": 31,
+    "gamesPlayed": 80,
+    "ppg": 0.39
+  },
+  {
+    "name": "Seth Jones",
+    "team": "FLA",
+    "position": "D",
+    "points": 36,
+    "gamesPlayed": 63,
+    "ppg": 0.57
+  },
+  {
+    "name": "Matt Kiersted",
+    "team": "FLA",
+    "position": "D",
+    "points": 1,
+    "gamesPlayed": 2,
+    "ppg": 0.5
+  },
+  {
+    "name": "Dmitry Kulikov",
+    "team": "FLA",
+    "position": "D",
+    "points": 13,
+    "gamesPlayed": 70,
+    "ppg": 0.19
+  },
+  {
+    "name": "Niko Mikkola",
+    "team": "FLA",
+    "position": "D",
+    "points": 22,
+    "gamesPlayed": 76,
+    "ppg": 0.29
+  },
+  {
+    "name": "Nate Schmidt",
+    "team": "FLA",
+    "position": "D",
+    "points": 19,
+    "gamesPlayed": 80,
+    "ppg": 0.24
+  },
+  {
+    "name": "Nicklas Backstrom",
+    "team": "WSH",
+    "position": "C",
+    "points": 1,
+    "gamesPlayed": 8,
+    "ppg": 0.13
+  },
+  {
+    "name": "Anthony Beauvillier",
+    "team": "WSH",
+    "position": "L",
+    "points": 25,
+    "gamesPlayed": 80,
+    "ppg": 0.31
+  },
+  {
+    "name": "Nic Dowd",
+    "team": "WSH",
+    "position": "C",
+    "points": 27,
+    "gamesPlayed": 81,
+    "ppg": 0.33
+  },
+  {
+    "name": "Pierre-Luc Dubois",
+    "team": "WSH",
+    "position": "L",
+    "points": 65,
+    "gamesPlayed": 81,
+    "ppg": 0.8
+  },
+  {
+    "name": "Brandon Duhaime",
+    "team": "WSH",
+    "position": "R",
+    "points": 21,
+    "gamesPlayed": 81,
+    "ppg": 0.26
+  },
+  {
+    "name": "Lars Eller",
+    "team": "WSH",
+    "position": "C",
+    "points": 22,
+    "gamesPlayed": 79,
+    "ppg": 0.28
+  },
+  {
+    "name": "Ethen Frank",
+    "team": "WSH",
+    "position": "C",
+    "points": 7,
+    "gamesPlayed": 23,
+    "ppg": 0.3
+  },
+  {
+    "name": "Ryan Leonard",
+    "team": "WSH",
+    "position": "R",
+    "points": 1,
+    "gamesPlayed": 8,
+    "ppg": 0.13
+  },
+  {
+    "name": "Andrew Mangiapane",
+    "team": "WSH",
+    "position": "L",
+    "points": 28,
+    "gamesPlayed": 80,
+    "ppg": 0.35
+  },
+  {
+    "name": "Connor McMichael",
+    "team": "WSH",
+    "position": "C",
+    "points": 56,
+    "gamesPlayed": 81,
+    "ppg": 0.69
+  },
+  {
+    "name": "T.J. Oshie",
+    "team": "WSH",
+    "position": "R",
+    "points": 25,
+    "gamesPlayed": 52,
+    "ppg": 0.48
+  },
+  {
+    "name": "Alex Ovechkin",
+    "team": "WSH",
+    "position": "L",
+    "points": 72,
+    "gamesPlayed": 64,
+    "ppg": 1.13
+  },
+  {
+    "name": "Aliaksei Protas",
+    "team": "WSH",
+    "position": "C",
+    "points": 66,
+    "gamesPlayed": 76,
+    "ppg": 0.87
+  },
+  {
+    "name": "Taylor Raddysh",
+    "team": "WSH",
+    "position": "R",
+    "points": 27,
+    "gamesPlayed": 79,
+    "ppg": 0.34
+  },
+  {
+    "name": "Dylan Strome",
+    "team": "WSH",
+    "position": "C",
+    "points": 81,
+    "gamesPlayed": 81,
+    "ppg": 1
+  },
+  {
+    "name": "Tom Wilson",
+    "team": "WSH",
+    "position": "R",
+    "points": 64,
+    "gamesPlayed": 80,
+    "ppg": 0.8
+  },
+  {
+    "name": "John Carlson",
+    "team": "WSH",
+    "position": "D",
+    "points": 51,
+    "gamesPlayed": 79,
+    "ppg": 0.65
+  },
+  {
+    "name": "Jakob Chychrun",
+    "team": "WSH",
+    "position": "D",
+    "points": 47,
+    "gamesPlayed": 73,
+    "ppg": 0.64
+  },
+  {
+    "name": "Martin Fehérváry",
+    "team": "WSH",
+    "position": "D",
+    "points": 25,
+    "gamesPlayed": 81,
+    "ppg": 0.31
+  },
+  {
+    "name": "Dylan McIlrath",
+    "team": "WSH",
+    "position": "D",
+    "points": 2,
+    "gamesPlayed": 16,
+    "ppg": 0.13
+  },
+  {
+    "name": "Matt Roy",
+    "team": "WSH",
+    "position": "D",
+    "points": 24,
+    "gamesPlayed": 69,
+    "ppg": 0.35
+  },
+  {
+    "name": "Rasmus Sandin",
+    "team": "WSH",
+    "position": "D",
+    "points": 30,
+    "gamesPlayed": 81,
+    "ppg": 0.37
+  },
+  {
+    "name": "Trevor van Riemsdyk",
+    "team": "WSH",
+    "position": "D",
+    "points": 21,
+    "gamesPlayed": 81,
+    "ppg": 0.26
+  },
+  {
+    "name": "Josh Anderson",
+    "team": "MTL",
+    "position": "R",
+    "points": 27,
+    "gamesPlayed": 81,
+    "ppg": 0.33
+  },
+  {
+    "name": "Joel Armia",
+    "team": "MTL",
+    "position": "R",
+    "points": 29,
+    "gamesPlayed": 81,
+    "ppg": 0.36
+  },
+  {
+    "name": "Cole Caufield",
+    "team": "MTL",
+    "position": "R",
+    "points": 70,
+    "gamesPlayed": 82,
+    "ppg": 0.85
+  },
+  {
+    "name": "Kirby Dach",
+    "team": "MTL",
+    "position": "C",
+    "points": 22,
+    "gamesPlayed": 57,
+    "ppg": 0.39
+  },
+  {
+    "name": "Ivan Demidov",
+    "team": "MTL",
+    "position": "R",
+    "points": 2,
+    "gamesPlayed": 2,
+    "ppg": 1
+  },
+  {
+    "name": "Christian Dvorak",
+    "team": "MTL",
+    "position": "C",
+    "points": 33,
+    "gamesPlayed": 82,
+    "ppg": 0.4
+  },
+  {
+    "name": "Jake Evans",
+    "team": "MTL",
+    "position": "C",
+    "points": 36,
+    "gamesPlayed": 82,
+    "ppg": 0.44
+  },
+  {
+    "name": "Brendan Gallagher",
+    "team": "MTL",
+    "position": "R",
+    "points": 38,
+    "gamesPlayed": 82,
+    "ppg": 0.46
+  },
+  {
+    "name": "Emil Heineman",
+    "team": "MTL",
+    "position": "L",
+    "points": 18,
+    "gamesPlayed": 62,
+    "ppg": 0.29
+  },
+  {
+    "name": "Oliver Kapanen",
+    "team": "MTL",
+    "position": "C",
+    "points": 2,
+    "gamesPlayed": 18,
+    "ppg": 0.11
+  },
+  {
+    "name": "Patrik Laine",
+    "team": "MTL",
+    "position": "R",
+    "points": 33,
+    "gamesPlayed": 52,
+    "ppg": 0.63
+  },
+  {
+    "name": "Alex Newhook",
+    "team": "MTL",
+    "position": "C",
+    "points": 26,
+    "gamesPlayed": 82,
+    "ppg": 0.32
+  },
+  {
+    "name": "Juraj Slafkovský",
+    "team": "MTL",
+    "position": "L",
+    "points": 51,
+    "gamesPlayed": 79,
+    "ppg": 0.65
+  },
+  {
+    "name": "Nick Suzuki",
+    "team": "MTL",
+    "position": "C",
+    "points": 89,
+    "gamesPlayed": 82,
+    "ppg": 1.09
+  },
+  {
+    "name": "Alexandre Carrier",
+    "team": "MTL",
+    "position": "D",
+    "points": 25,
+    "gamesPlayed": 79,
+    "ppg": 0.32
+  },
+  {
+    "name": "Kaiden Guhle",
+    "team": "MTL",
+    "position": "D",
+    "points": 18,
+    "gamesPlayed": 55,
+    "ppg": 0.33
+  },
+  {
+    "name": "Lane Hutson",
+    "team": "MTL",
+    "position": "D",
+    "points": 66,
+    "gamesPlayed": 82,
+    "ppg": 0.8
+  },
+  {
+    "name": "Mike Matheson",
+    "team": "MTL",
+    "position": "D",
+    "points": 31,
+    "gamesPlayed": 80,
+    "ppg": 0.39
+  },
+  {
+    "name": "David Savard",
+    "team": "MTL",
+    "position": "D",
+    "points": 15,
+    "gamesPlayed": 75,
+    "ppg": 0.2
+  },
+  {
+    "name": "Jayden Struble",
+    "team": "MTL",
+    "position": "D",
+    "points": 13,
+    "gamesPlayed": 56,
+    "ppg": 0.23
+  },
+  {
+    "name": "Arber Xhekaj",
+    "team": "MTL",
+    "position": "D",
+    "points": 6,
+    "gamesPlayed": 70,
+    "ppg": 0.09
+  },
+  {
+    "name": "Sebastian Aho",
+    "team": "CAR",
+    "position": "C",
+    "points": 74,
+    "gamesPlayed": 79,
+    "ppg": 0.94
+  },
+  {
+    "name": "Jackson Blake",
+    "team": "CAR",
+    "position": "R",
+    "points": 34,
+    "gamesPlayed": 80,
+    "ppg": 0.42
+  },
+  {
+    "name": "William Carrier",
+    "team": "CAR",
+    "position": "L",
+    "points": 10,
+    "gamesPlayed": 42,
+    "ppg": 0.24
+  },
+  {
+    "name": "Taylor Hall",
+    "team": "CAR",
+    "position": "L",
+    "points": 40,
+    "gamesPlayed": 76,
+    "ppg": 0.53
+  },
+  {
+    "name": "Mark Jankowski",
+    "team": "CAR",
+    "position": "C",
+    "points": 17,
+    "gamesPlayed": 59,
+    "ppg": 0.29
+  },
+  {
+    "name": "Seth Jarvis",
+    "team": "CAR",
+    "position": "C",
+    "points": 67,
+    "gamesPlayed": 73,
+    "ppg": 0.92
+  },
+  {
+    "name": "Tyson Jost",
+    "team": "CAR",
+    "position": "C",
+    "points": 8,
+    "gamesPlayed": 38,
+    "ppg": 0.21
+  },
+  {
+    "name": "Jesperi Kotkaniemi",
+    "team": "CAR",
+    "position": "C",
+    "points": 32,
+    "gamesPlayed": 77,
+    "ppg": 0.42
+  },
+  {
+    "name": "Jordan Martinook",
+    "team": "CAR",
+    "position": "L",
+    "points": 36,
+    "gamesPlayed": 79,
+    "ppg": 0.46
+  },
+  {
+    "name": "Bradly Nadeau",
+    "team": "CAR",
+    "position": "L",
+    "points": 1,
+    "gamesPlayed": 1,
+    "ppg": 1
+  },
+  {
+    "name": "Eric Robinson",
+    "team": "CAR",
+    "position": "L",
+    "points": 32,
+    "gamesPlayed": 81,
+    "ppg": 0.4
+  },
+  {
+    "name": "Jack Roslovic",
+    "team": "CAR",
+    "position": "C",
+    "points": 38,
+    "gamesPlayed": 80,
+    "ppg": 0.47
+  },
+  {
+    "name": "Jordan Staal",
+    "team": "CAR",
+    "position": "C",
+    "points": 36,
+    "gamesPlayed": 75,
+    "ppg": 0.48
+  },
+  {
+    "name": "Logan Stankoven",
+    "team": "CAR",
+    "position": "C",
+    "points": 37,
+    "gamesPlayed": 77,
+    "ppg": 0.48
+  },
+  {
+    "name": "Andrei Svechnikov",
+    "team": "CAR",
+    "position": "R",
+    "points": 46,
+    "gamesPlayed": 71,
+    "ppg": 0.65
+  },
+  {
+    "name": "Brent Burns",
+    "team": "CAR",
+    "position": "D",
+    "points": 29,
+    "gamesPlayed": 81,
+    "ppg": 0.36
+  },
+  {
+    "name": "Jalen Chatfield",
+    "team": "CAR",
+    "position": "D",
+    "points": 18,
+    "gamesPlayed": 79,
+    "ppg": 0.23
+  },
+  {
+    "name": "Shayne Gostisbehere",
+    "team": "CAR",
+    "position": "D",
+    "points": 44,
+    "gamesPlayed": 69,
+    "ppg": 0.64
+  },
+  {
+    "name": "Scott Morrow",
+    "team": "CAR",
+    "position": "D",
+    "points": 5,
+    "gamesPlayed": 13,
+    "ppg": 0.38
+  },
+  {
+    "name": "Dmitry Orlov",
+    "team": "CAR",
+    "position": "D",
+    "points": 28,
+    "gamesPlayed": 75,
+    "ppg": 0.37
+  },
+  {
+    "name": "Jaccob Slavin",
+    "team": "CAR",
+    "position": "D",
+    "points": 27,
+    "gamesPlayed": 80,
+    "ppg": 0.34
+  },
+  {
+    "name": "Sean Walker",
+    "team": "CAR",
+    "position": "D",
+    "points": 16,
+    "gamesPlayed": 81,
+    "ppg": 0.2
+  },
+  {
+    "name": "Nathan Bastian",
+    "team": "NJD",
+    "position": "R",
+    "points": 10,
+    "gamesPlayed": 59,
+    "ppg": 0.17
+  },
+  {
+    "name": "Jesper Bratt",
+    "team": "NJD",
+    "position": "L",
+    "points": 88,
+    "gamesPlayed": 81,
+    "ppg": 1.09
+  },
+  {
+    "name": "Paul Cotter",
+    "team": "NJD",
+    "position": "C",
+    "points": 22,
+    "gamesPlayed": 79,
+    "ppg": 0.28
+  },
+  {
+    "name": "Justin Dowling",
+    "team": "NJD",
+    "position": "C",
+    "points": 7,
+    "gamesPlayed": 52,
+    "ppg": 0.13
+  },
+  {
+    "name": "Nolan Foote",
+    "team": "NJD",
+    "position": "L",
+    "points": 1,
+    "gamesPlayed": 7,
+    "ppg": 0.14
+  },
+  {
+    "name": "Cody Glass",
+    "team": "NJD",
+    "position": "C",
+    "points": 22,
+    "gamesPlayed": 65,
+    "ppg": 0.34
+  },
+  {
+    "name": "Erik Haula",
+    "team": "NJD",
+    "position": "L",
+    "points": 21,
+    "gamesPlayed": 69,
+    "ppg": 0.3
+  },
+  {
+    "name": "Nico Hischier",
+    "team": "NJD",
+    "position": "C",
+    "points": 69,
+    "gamesPlayed": 75,
+    "ppg": 0.92
+  },
+  {
+    "name": "Jack Hughes",
+    "team": "NJD",
+    "position": "C",
+    "points": 70,
+    "gamesPlayed": 62,
+    "ppg": 1.13
+  },
+  {
+    "name": "Curtis Lazar",
+    "team": "NJD",
+    "position": "C",
+    "points": 5,
+    "gamesPlayed": 48,
+    "ppg": 0.1
+  },
+  {
+    "name": "Timo Meier",
+    "team": "NJD",
+    "position": "R",
+    "points": 53,
+    "gamesPlayed": 80,
+    "ppg": 0.66
+  },
+  {
+    "name": "Dawson Mercer",
+    "team": "NJD",
+    "position": "C",
+    "points": 36,
+    "gamesPlayed": 82,
+    "ppg": 0.44
+  },
+  {
+    "name": "Stefan Noesen",
+    "team": "NJD",
+    "position": "R",
+    "points": 41,
+    "gamesPlayed": 78,
+    "ppg": 0.53
+  },
+  {
+    "name": "Ondrej Palat",
+    "team": "NJD",
+    "position": "L",
+    "points": 28,
+    "gamesPlayed": 77,
+    "ppg": 0.36
+  },
+  {
+    "name": "Daniel Sprong",
+    "team": "NJD",
+    "position": "R",
+    "points": 7,
+    "gamesPlayed": 30,
+    "ppg": 0.23
+  },
+  {
+    "name": "Tomas Tatar",
+    "team": "NJD",
+    "position": "L",
+    "points": 17,
+    "gamesPlayed": 74,
+    "ppg": 0.23
+  },
+  {
+    "name": "Seamus Casey",
+    "team": "NJD",
+    "position": "D",
+    "points": 8,
+    "gamesPlayed": 14,
+    "ppg": 0.57
+  },
+  {
+    "name": "Dennis Cholowski",
+    "team": "NJD",
+    "position": "D",
+    "points": 10,
+    "gamesPlayed": 39,
+    "ppg": 0.26
+  },
+  {
+    "name": "Brenden Dillon",
+    "team": "NJD",
+    "position": "D",
+    "points": 16,
+    "gamesPlayed": 82,
+    "ppg": 0.2
+  },
+  {
+    "name": "Brian Dumoulin",
+    "team": "NJD",
+    "position": "D",
+    "points": 22,
+    "gamesPlayed": 80,
+    "ppg": 0.28
+  },
+  {
+    "name": "Dougie Hamilton",
+    "team": "NJD",
+    "position": "D",
+    "points": 40,
+    "gamesPlayed": 64,
+    "ppg": 0.63
+  },
+  {
+    "name": "Luke Hughes",
+    "team": "NJD",
+    "position": "D",
+    "points": 44,
+    "gamesPlayed": 71,
+    "ppg": 0.62
+  },
+  {
+    "name": "Johnathan Kovacevic",
+    "team": "NJD",
+    "position": "D",
+    "points": 17,
+    "gamesPlayed": 81,
+    "ppg": 0.21
+  },
+  {
+    "name": "Simon Nemec",
+    "team": "NJD",
+    "position": "D",
+    "points": 4,
+    "gamesPlayed": 27,
+    "ppg": 0.15
+  },
+  {
+    "name": "Brett Pesce",
+    "team": "NJD",
+    "position": "D",
+    "points": 17,
+    "gamesPlayed": 72,
+    "ppg": 0.24
+  },
+  {
+    "name": "Jonas Siegenthaler",
+    "team": "NJD",
+    "position": "D",
+    "points": 9,
+    "gamesPlayed": 55,
+    "ppg": 0.16
+  },
+  {
+    "name": "Jaret Anderson-Dolan",
+    "team": "WPG",
+    "position": "C",
+    "points": 1,
+    "gamesPlayed": 7,
+    "ppg": 0.14
+  },
+  {
+    "name": "Mason Appleton",
+    "team": "WPG",
+    "position": "C",
+    "points": 22,
+    "gamesPlayed": 71,
+    "ppg": 0.31
+  },
+  {
+    "name": "Morgan Barron",
+    "team": "WPG",
+    "position": "C",
+    "points": 15,
+    "gamesPlayed": 74,
+    "ppg": 0.2
+  },
+  {
+    "name": "Kyle Connor",
+    "team": "WPG",
+    "position": "L",
+    "points": 97,
+    "gamesPlayed": 82,
+    "ppg": 1.18
+  },
+  {
+    "name": "Nikolaj Ehlers",
+    "team": "WPG",
+    "position": "L",
+    "points": 63,
+    "gamesPlayed": 69,
+    "ppg": 0.91
+  },
+  {
+    "name": "David Gustafsson",
+    "team": "WPG",
+    "position": "C",
+    "points": 6,
+    "gamesPlayed": 36,
+    "ppg": 0.17
+  },
+  {
+    "name": "Alex Iafallo",
+    "team": "WPG",
+    "position": "L",
+    "points": 31,
+    "gamesPlayed": 82,
+    "ppg": 0.38
+  },
+  {
+    "name": "Rasmus Kupari",
+    "team": "WPG",
+    "position": "C",
+    "points": 8,
+    "gamesPlayed": 59,
+    "ppg": 0.14
+  },
+  {
+    "name": "Adam Lowry",
+    "team": "WPG",
+    "position": "C",
+    "points": 34,
+    "gamesPlayed": 73,
+    "ppg": 0.47
+  },
+  {
+    "name": "Vladislav Namestnikov",
+    "team": "WPG",
+    "position": "C",
+    "points": 38,
+    "gamesPlayed": 78,
+    "ppg": 0.49
+  },
+  {
+    "name": "Nino Niederreiter",
+    "team": "WPG",
+    "position": "R",
+    "points": 37,
+    "gamesPlayed": 82,
+    "ppg": 0.45
+  },
+  {
+    "name": "Cole Perfetti",
+    "team": "WPG",
+    "position": "C",
+    "points": 50,
+    "gamesPlayed": 82,
+    "ppg": 0.61
+  },
+  {
+    "name": "Mark Scheifele",
+    "team": "WPG",
+    "position": "C",
+    "points": 87,
+    "gamesPlayed": 82,
+    "ppg": 1.06
+  },
+  {
+    "name": "Brandon Tanev",
+    "team": "WPG",
+    "position": "L",
+    "points": 22,
+    "gamesPlayed": 79,
+    "ppg": 0.28
+  },
+  {
+    "name": "Gabriel Vilardi",
+    "team": "WPG",
+    "position": "C",
+    "points": 61,
+    "gamesPlayed": 71,
+    "ppg": 0.86
+  },
+  {
+    "name": "Dylan DeMelo",
+    "team": "WPG",
+    "position": "D",
+    "points": 19,
+    "gamesPlayed": 82,
+    "ppg": 0.23
+  },
+  {
+    "name": "Haydn Fleury",
+    "team": "WPG",
+    "position": "D",
+    "points": 7,
+    "gamesPlayed": 39,
+    "ppg": 0.18
+  },
+  {
+    "name": "Ville Heinola",
+    "team": "WPG",
+    "position": "D",
+    "points": 1,
+    "gamesPlayed": 18,
+    "ppg": 0.06
+  },
+  {
+    "name": "Colin Miller",
+    "team": "WPG",
+    "position": "D",
+    "points": 15,
+    "gamesPlayed": 60,
+    "ppg": 0.25
+  },
+  {
+    "name": "Josh Morrissey",
+    "team": "WPG",
+    "position": "D",
+    "points": 62,
+    "gamesPlayed": 80,
+    "ppg": 0.78
+  },
+  {
+    "name": "Neal Pionk",
+    "team": "WPG",
+    "position": "D",
+    "points": 39,
+    "gamesPlayed": 69,
+    "ppg": 0.57
+  },
+  {
+    "name": "Dylan Samberg",
+    "team": "WPG",
+    "position": "D",
+    "points": 20,
+    "gamesPlayed": 60,
+    "ppg": 0.33
+  },
+  {
+    "name": "Luke Schenn",
+    "team": "WPG",
+    "position": "D",
+    "points": 7,
+    "gamesPlayed": 76,
+    "ppg": 0.09
+  },
+  {
+    "name": "Logan Stanley",
+    "team": "WPG",
+    "position": "D",
+    "points": 14,
+    "gamesPlayed": 63,
+    "ppg": 0.22
+  },
+  {
+    "name": "Zack Bolduc",
+    "team": "STL",
+    "position": "R",
+    "points": 36,
+    "gamesPlayed": 72,
+    "ppg": 0.5
+  },
+  {
+    "name": "Pavel Buchnevich",
+    "team": "STL",
+    "position": "L",
+    "points": 57,
+    "gamesPlayed": 76,
+    "ppg": 0.75
+  },
+  {
+    "name": "Radek Faksa",
+    "team": "STL",
+    "position": "C",
+    "points": 15,
+    "gamesPlayed": 70,
+    "ppg": 0.21
+  },
+  {
+    "name": "Dylan Holloway",
+    "team": "STL",
+    "position": "L",
+    "points": 63,
+    "gamesPlayed": 77,
+    "ppg": 0.82
+  },
+  {
+    "name": "Mathieu Joseph",
+    "team": "STL",
+    "position": "R",
+    "points": 14,
+    "gamesPlayed": 60,
+    "ppg": 0.23
+  },
+  {
+    "name": "Jordan Kyrou",
+    "team": "STL",
+    "position": "R",
+    "points": 70,
+    "gamesPlayed": 82,
+    "ppg": 0.85
+  },
+  {
+    "name": "Jake Neighbours",
+    "team": "STL",
+    "position": "L",
+    "points": 46,
+    "gamesPlayed": 82,
+    "ppg": 0.56
+  },
+  {
+    "name": "Brayden Schenn",
+    "team": "STL",
+    "position": "C",
+    "points": 50,
+    "gamesPlayed": 82,
+    "ppg": 0.61
+  },
+  {
+    "name": "Jimmy Snuggerud",
+    "team": "STL",
+    "position": "R",
+    "points": 4,
+    "gamesPlayed": 7,
+    "ppg": 0.57
+  },
+  {
+    "name": "Oskar Sundqvist",
+    "team": "STL",
+    "position": "C",
+    "points": 20,
+    "gamesPlayed": 67,
+    "ppg": 0.3
+  },
+  {
+    "name": "Alexandre Texier",
+    "team": "STL",
+    "position": "L",
+    "points": 11,
+    "gamesPlayed": 31,
+    "ppg": 0.35
+  },
+  {
+    "name": "Robert Thomas",
+    "team": "STL",
+    "position": "C",
+    "points": 81,
+    "gamesPlayed": 70,
+    "ppg": 1.16
+  },
+  {
+    "name": "Alexey Toropchenko",
+    "team": "STL",
+    "position": "R",
+    "points": 18,
+    "gamesPlayed": 80,
+    "ppg": 0.23
+  },
+  {
+    "name": "Nathan Walker",
+    "team": "STL",
+    "position": "L",
+    "points": 16,
+    "gamesPlayed": 73,
+    "ppg": 0.22
+  },
+  {
+    "name": "Philip Broberg",
+    "team": "STL",
+    "position": "D",
+    "points": 29,
+    "gamesPlayed": 68,
+    "ppg": 0.43
+  },
+  {
+    "name": "Justin Faulk",
+    "team": "STL",
+    "position": "D",
+    "points": 32,
+    "gamesPlayed": 78,
+    "ppg": 0.41
+  },
+  {
+    "name": "Cam Fowler",
+    "team": "STL",
+    "position": "D",
+    "points": 40,
+    "gamesPlayed": 68,
+    "ppg": 0.59
+  },
+  {
+    "name": "Matthew Kessel",
+    "team": "STL",
+    "position": "D",
+    "points": 3,
+    "gamesPlayed": 29,
+    "ppg": 0.1
+  },
+  {
+    "name": "Nick Leddy",
+    "team": "STL",
+    "position": "D",
+    "points": 5,
+    "gamesPlayed": 31,
+    "ppg": 0.16
+  },
+  {
+    "name": "Colton Parayko",
+    "team": "STL",
+    "position": "D",
+    "points": 36,
+    "gamesPlayed": 64,
+    "ppg": 0.56
+  },
+  {
+    "name": "Ryan Suter",
+    "team": "STL",
+    "position": "D",
+    "points": 15,
+    "gamesPlayed": 82,
+    "ppg": 0.18
+  },
+  {
+    "name": "Tyler Tucker",
+    "team": "STL",
+    "position": "D",
+    "points": 7,
+    "gamesPlayed": 38,
+    "ppg": 0.18
+  },
+  {
+    "name": "Jamie Benn",
+    "team": "DAL",
+    "position": "L",
+    "points": 49,
+    "gamesPlayed": 80,
+    "ppg": 0.61
+  },
+  {
+    "name": "Colin Blackwell",
+    "team": "DAL",
+    "position": "C",
+    "points": 17,
+    "gamesPlayed": 63,
+    "ppg": 0.27
+  },
+  {
+    "name": "Mavrik Bourque",
+    "team": "DAL",
+    "position": "C",
+    "points": 25,
+    "gamesPlayed": 73,
+    "ppg": 0.34
+  },
+  {
+    "name": "Oskar Bäck",
+    "team": "DAL",
+    "position": "C",
+    "points": 16,
+    "gamesPlayed": 73,
+    "ppg": 0.22
+  },
+  {
+    "name": "Evgenii Dadonov",
+    "team": "DAL",
+    "position": "R",
+    "points": 40,
+    "gamesPlayed": 80,
+    "ppg": 0.5
+  },
+  {
+    "name": "Matt Duchene",
+    "team": "DAL",
+    "position": "C",
+    "points": 82,
+    "gamesPlayed": 82,
+    "ppg": 1
+  },
+  {
+    "name": "Mikael Granlund",
+    "team": "DAL",
+    "position": "C",
+    "points": 66,
+    "gamesPlayed": 83,
+    "ppg": 0.8
+  },
+  {
+    "name": "Roope Hintz",
+    "team": "DAL",
+    "position": "C",
+    "points": 67,
+    "gamesPlayed": 76,
+    "ppg": 0.88
+  },
+  {
+    "name": "Wyatt Johnston",
+    "team": "DAL",
+    "position": "C",
+    "points": 71,
+    "gamesPlayed": 82,
+    "ppg": 0.87
+  },
+  {
+    "name": "Mason Marchment",
+    "team": "DAL",
+    "position": "L",
+    "points": 47,
+    "gamesPlayed": 62,
+    "ppg": 0.76
+  },
+  {
+    "name": "Mikko Rantanen",
+    "team": "DAL",
+    "position": "R",
+    "points": 88,
+    "gamesPlayed": 82,
+    "ppg": 1.07
+  },
+  {
+    "name": "Jason Robertson",
+    "team": "DAL",
+    "position": "L",
+    "points": 80,
+    "gamesPlayed": 82,
+    "ppg": 0.98
+  },
+  {
+    "name": "Tyler Seguin",
+    "team": "DAL",
+    "position": "C",
+    "points": 21,
+    "gamesPlayed": 20,
+    "ppg": 1.05
+  },
+  {
+    "name": "Sam Steel",
+    "team": "DAL",
+    "position": "C",
+    "points": 25,
+    "gamesPlayed": 79,
+    "ppg": 0.32
+  },
+  {
+    "name": "Cody Ceci",
+    "team": "DAL",
+    "position": "D",
+    "points": 24,
+    "gamesPlayed": 85,
+    "ppg": 0.28
+  },
+  {
+    "name": "Mathew Dumba",
+    "team": "DAL",
+    "position": "D",
+    "points": 10,
+    "gamesPlayed": 63,
+    "ppg": 0.16
+  },
+  {
+    "name": "Thomas Harley",
+    "team": "DAL",
+    "position": "D",
+    "points": 50,
+    "gamesPlayed": 78,
+    "ppg": 0.64
+  },
+  {
+    "name": "Miro Heiskanen",
+    "team": "DAL",
+    "position": "D",
+    "points": 25,
+    "gamesPlayed": 50,
+    "ppg": 0.5
+  },
+  {
+    "name": "Esa Lindell",
+    "team": "DAL",
+    "position": "D",
+    "points": 26,
+    "gamesPlayed": 80,
+    "ppg": 0.33
+  },
+  {
+    "name": "Nils Lundkvist",
+    "team": "DAL",
+    "position": "D",
+    "points": 5,
+    "gamesPlayed": 39,
+    "ppg": 0.13
+  },
+  {
+    "name": "Ilya Lyubushkin",
+    "team": "DAL",
+    "position": "D",
+    "points": 14,
+    "gamesPlayed": 80,
+    "ppg": 0.17
+  },
+  {
+    "name": "Brendan Smith",
+    "team": "DAL",
+    "position": "D",
+    "points": 6,
+    "gamesPlayed": 32,
+    "ppg": 0.19
+  },
+  {
+    "name": "Ross Colton",
+    "team": "COL",
+    "position": "C",
+    "points": 29,
+    "gamesPlayed": 61,
+    "ppg": 0.48
+  },
+  {
+    "name": "Charlie Coyle",
+    "team": "COL",
+    "position": "C",
+    "points": 35,
+    "gamesPlayed": 83,
+    "ppg": 0.42
+  },
+  {
+    "name": "Jonathan Drouin",
+    "team": "COL",
+    "position": "L",
+    "points": 37,
+    "gamesPlayed": 43,
+    "ppg": 0.86
+  },
+  {
+    "name": "Jack Drury",
+    "team": "COL",
+    "position": "C",
+    "points": 18,
+    "gamesPlayed": 72,
+    "ppg": 0.25
+  },
+  {
+    "name": "Parker Kelly",
+    "team": "COL",
+    "position": "C",
+    "points": 19,
+    "gamesPlayed": 80,
+    "ppg": 0.24
+  },
+  {
+    "name": "Joel Kiviranta",
+    "team": "COL",
+    "position": "L",
+    "points": 23,
+    "gamesPlayed": 79,
+    "ppg": 0.29
+  },
+  {
+    "name": "Artturi Lehkonen",
+    "team": "COL",
+    "position": "L",
+    "points": 45,
+    "gamesPlayed": 69,
+    "ppg": 0.65
+  },
+  {
+    "name": "Nathan MacKinnon",
+    "team": "COL",
+    "position": "C",
+    "points": 116,
+    "gamesPlayed": 79,
+    "ppg": 1.47
+  },
+  {
+    "name": "Martin Necas",
+    "team": "COL",
+    "position": "C",
+    "points": 83,
+    "gamesPlayed": 79,
+    "ppg": 1.05
+  },
+  {
+    "name": "Brock Nelson",
+    "team": "COL",
+    "position": "C",
+    "points": 56,
+    "gamesPlayed": 80,
+    "ppg": 0.7
+  },
+  {
+    "name": "Valeri Nichushkin",
+    "team": "COL",
+    "position": "R",
+    "points": 34,
+    "gamesPlayed": 43,
+    "ppg": 0.79
+  },
+  {
+    "name": "Logan O'Connor",
+    "team": "COL",
+    "position": "R",
+    "points": 21,
+    "gamesPlayed": 80,
+    "ppg": 0.26
+  },
+  {
+    "name": "Jimmy Vesey",
+    "team": "COL",
+    "position": "L",
+    "points": 8,
+    "gamesPlayed": 43,
+    "ppg": 0.19
+  },
+  {
+    "name": "Miles Wood",
+    "team": "COL",
+    "position": "L",
+    "points": 8,
+    "gamesPlayed": 37,
+    "ppg": 0.22
+  },
+  {
+    "name": "Samuel Girard",
+    "team": "COL",
+    "position": "D",
+    "points": 24,
+    "gamesPlayed": 73,
+    "ppg": 0.33
+  },
+  {
+    "name": "Erik Johnson",
+    "team": "COL",
+    "position": "D",
+    "points": 5,
+    "gamesPlayed": 36,
+    "ppg": 0.14
+  },
+  {
+    "name": "Ryan Lindgren",
+    "team": "COL",
+    "position": "D",
+    "points": 22,
+    "gamesPlayed": 72,
+    "ppg": 0.31
+  },
+  {
+    "name": "Cale Makar",
+    "team": "COL",
+    "position": "D",
+    "points": 92,
+    "gamesPlayed": 80,
+    "ppg": 1.15
+  },
+  {
+    "name": "Sam Malinski",
+    "team": "COL",
+    "position": "D",
+    "points": 15,
+    "gamesPlayed": 76,
+    "ppg": 0.2
+  },
+  {
+    "name": "Josh Manson",
+    "team": "COL",
+    "position": "D",
+    "points": 15,
+    "gamesPlayed": 48,
+    "ppg": 0.31
+  },
+  {
+    "name": "Keaton Middleton",
+    "team": "COL",
+    "position": "D",
+    "points": 2,
+    "gamesPlayed": 41,
+    "ppg": 0.05
+  },
+  {
+    "name": "Devon Toews",
+    "team": "COL",
+    "position": "D",
+    "points": 44,
+    "gamesPlayed": 76,
+    "ppg": 0.58
+  },
+  {
+    "name": "Ivan Barbashev",
+    "team": "VGK",
+    "position": "C",
+    "points": 51,
+    "gamesPlayed": 70,
+    "ppg": 0.73
+  },
+  {
+    "name": "Pavel Dorofeyev",
+    "team": "VGK",
+    "position": "L",
+    "points": 52,
+    "gamesPlayed": 82,
+    "ppg": 0.63
+  },
+  {
+    "name": "Jack Eichel",
+    "team": "VGK",
+    "position": "C",
+    "points": 94,
+    "gamesPlayed": 77,
+    "ppg": 1.22
+  },
+  {
+    "name": "Tomas Hertl",
+    "team": "VGK",
+    "position": "C",
+    "points": 61,
+    "gamesPlayed": 73,
+    "ppg": 0.84
+  },
+  {
+    "name": "Alexander Holtz",
+    "team": "VGK",
+    "position": "R",
+    "points": 12,
+    "gamesPlayed": 53,
+    "ppg": 0.23
+  },
+  {
+    "name": "Brett Howden",
+    "team": "VGK",
+    "position": "C",
+    "points": 40,
+    "gamesPlayed": 80,
+    "ppg": 0.5
+  },
+  {
+    "name": "William Karlsson",
+    "team": "VGK",
+    "position": "C",
+    "points": 29,
+    "gamesPlayed": 53,
+    "ppg": 0.55
+  },
+  {
+    "name": "Keegan Kolesar",
+    "team": "VGK",
+    "position": "R",
+    "points": 30,
+    "gamesPlayed": 82,
+    "ppg": 0.37
+  },
+  {
+    "name": "Victor Olofsson",
+    "team": "VGK",
+    "position": "R",
+    "points": 29,
+    "gamesPlayed": 56,
+    "ppg": 0.52
+  },
+  {
+    "name": "Tanner Pearson",
+    "team": "VGK",
+    "position": "L",
+    "points": 27,
+    "gamesPlayed": 78,
+    "ppg": 0.35
+  },
+  {
+    "name": "Nicolas Roy",
+    "team": "VGK",
+    "position": "C",
+    "points": 31,
+    "gamesPlayed": 71,
+    "ppg": 0.44
+  },
+  {
+    "name": "Brandon Saad",
+    "team": "VGK",
+    "position": "L",
+    "points": 30,
+    "gamesPlayed": 72,
+    "ppg": 0.42
+  },
+  {
+    "name": "Cole Schwindt",
+    "team": "VGK",
+    "position": "R",
+    "points": 8,
+    "gamesPlayed": 42,
+    "ppg": 0.19
+  },
+  {
+    "name": "Reilly Smith",
+    "team": "VGK",
+    "position": "R",
+    "points": 40,
+    "gamesPlayed": 79,
+    "ppg": 0.51
+  },
+  {
+    "name": "Mark Stone",
+    "team": "VGK",
+    "position": "R",
+    "points": 67,
+    "gamesPlayed": 66,
+    "ppg": 1.02
+  },
+  {
+    "name": "Nicolas Hague",
+    "team": "VGK",
+    "position": "D",
+    "points": 12,
+    "gamesPlayed": 68,
+    "ppg": 0.18
+  },
+  {
+    "name": "Noah Hanifin",
+    "team": "VGK",
+    "position": "D",
+    "points": 39,
+    "gamesPlayed": 80,
+    "ppg": 0.49
+  },
+  {
+    "name": "Ben Hutton",
+    "team": "VGK",
+    "position": "D",
+    "points": 2,
+    "gamesPlayed": 11,
+    "ppg": 0.18
+  },
+  {
+    "name": "Kaedan Korczak",
+    "team": "VGK",
+    "position": "D",
+    "points": 10,
+    "gamesPlayed": 40,
+    "ppg": 0.25
+  },
+  {
+    "name": "Brayden McNabb",
+    "team": "VGK",
+    "position": "D",
+    "points": 20,
+    "gamesPlayed": 82,
+    "ppg": 0.24
+  },
+  {
+    "name": "Alex Pietrangelo",
+    "team": "VGK",
+    "position": "D",
+    "points": 33,
+    "gamesPlayed": 71,
+    "ppg": 0.46
+  },
+  {
+    "name": "Shea Theodore",
+    "team": "VGK",
+    "position": "D",
+    "points": 57,
+    "gamesPlayed": 67,
+    "ppg": 0.85
+  },
+  {
+    "name": "Zach Whitecloud",
+    "team": "VGK",
+    "position": "D",
+    "points": 13,
+    "gamesPlayed": 74,
+    "ppg": 0.18
+  },
+  {
+    "name": "Matt Boldy",
+    "team": "MIN",
+    "position": "L",
+    "points": 73,
+    "gamesPlayed": 82,
+    "ppg": 0.89
+  },
+  {
+    "name": "Justin Brazeau",
+    "team": "MIN",
+    "position": "R",
+    "points": 22,
+    "gamesPlayed": 76,
+    "ppg": 0.29
+  },
+  {
+    "name": "Joel Eriksson Ek",
+    "team": "MIN",
+    "position": "C",
+    "points": 29,
+    "gamesPlayed": 46,
+    "ppg": 0.63
+  },
+  {
+    "name": "Marcus Foligno",
+    "team": "MIN",
+    "position": "L",
+    "points": 29,
+    "gamesPlayed": 77,
+    "ppg": 0.38
+  },
+  {
+    "name": "Frederick Gaudreau",
+    "team": "MIN",
+    "position": "C",
+    "points": 37,
+    "gamesPlayed": 82,
+    "ppg": 0.45
+  },
+  {
+    "name": "Ryan Hartman",
+    "team": "MIN",
+    "position": "R",
+    "points": 26,
+    "gamesPlayed": 69,
+    "ppg": 0.38
+  },
+  {
+    "name": "Vinnie Hinostroza",
+    "team": "MIN",
+    "position": "C",
+    "points": 10,
+    "gamesPlayed": 38,
+    "ppg": 0.26
+  },
+  {
+    "name": "Marcus Johansson",
+    "team": "MIN",
+    "position": "L",
+    "points": 34,
+    "gamesPlayed": 72,
+    "ppg": 0.47
+  },
+  {
+    "name": "Kirill Kaprizov",
+    "team": "MIN",
+    "position": "L",
+    "points": 56,
+    "gamesPlayed": 41,
+    "ppg": 1.37
+  },
+  {
+    "name": "Gustav Nyquist",
+    "team": "MIN",
+    "position": "C",
+    "points": 28,
+    "gamesPlayed": 79,
+    "ppg": 0.35
+  },
+  {
+    "name": "Marco Rossi",
+    "team": "MIN",
+    "position": "C",
+    "points": 60,
+    "gamesPlayed": 82,
+    "ppg": 0.73
+  },
+  {
+    "name": "Yakov Trenin",
+    "team": "MIN",
+    "position": "C",
+    "points": 15,
+    "gamesPlayed": 76,
+    "ppg": 0.2
+  },
+  {
+    "name": "Mats Zuccarello",
+    "team": "MIN",
+    "position": "R",
+    "points": 54,
+    "gamesPlayed": 69,
+    "ppg": 0.78
+  },
+  {
+    "name": "Zach Bogosian",
+    "team": "MIN",
+    "position": "D",
+    "points": 16,
+    "gamesPlayed": 81,
+    "ppg": 0.2
+  },
+  {
+    "name": "Jonas Brodin",
+    "team": "MIN",
+    "position": "D",
+    "points": 20,
+    "gamesPlayed": 50,
+    "ppg": 0.4
+  },
+  {
+    "name": "Declan Chisholm",
+    "team": "MIN",
+    "position": "D",
+    "points": 12,
+    "gamesPlayed": 66,
+    "ppg": 0.18
+  },
+  {
+    "name": "Brock Faber",
+    "team": "MIN",
+    "position": "D",
+    "points": 29,
+    "gamesPlayed": 78,
+    "ppg": 0.37
+  },
+  {
+    "name": "Jon Merrill",
+    "team": "MIN",
+    "position": "D",
+    "points": 6,
+    "gamesPlayed": 70,
+    "ppg": 0.09
+  },
+  {
+    "name": "Jake Middleton",
+    "team": "MIN",
+    "position": "D",
+    "points": 21,
+    "gamesPlayed": 67,
+    "ppg": 0.31
+  },
+  {
+    "name": "Jared Spurgeon",
+    "team": "MIN",
+    "position": "D",
+    "points": 32,
+    "gamesPlayed": 66,
+    "ppg": 0.48
+  },
+  {
+    "name": "Quinton Byfield",
+    "team": "LAK",
+    "position": "R",
+    "points": 54,
+    "gamesPlayed": 80,
+    "ppg": 0.68
+  },
+  {
+    "name": "Phillip Danault",
+    "team": "LAK",
+    "position": "C",
+    "points": 43,
+    "gamesPlayed": 80,
+    "ppg": 0.54
+  },
+  {
+    "name": "Kevin Fiala",
+    "team": "LAK",
+    "position": "L",
+    "points": 60,
+    "gamesPlayed": 80,
+    "ppg": 0.75
+  },
+  {
+    "name": "Warren Foegele",
+    "team": "LAK",
+    "position": "L",
+    "points": 46,
+    "gamesPlayed": 81,
+    "ppg": 0.57
+  },
+  {
+    "name": "Samuel Helenius",
+    "team": "LAK",
+    "position": "C",
+    "points": 7,
+    "gamesPlayed": 49,
+    "ppg": 0.14
+  },
+  {
+    "name": "Tanner Jeannot",
+    "team": "LAK",
+    "position": "L",
+    "points": 13,
+    "gamesPlayed": 67,
+    "ppg": 0.19
+  },
+  {
+    "name": "Adrian Kempe",
+    "team": "LAK",
+    "position": "R",
+    "points": 73,
+    "gamesPlayed": 81,
+    "ppg": 0.9
+  },
+  {
+    "name": "Anze Kopitar",
+    "team": "LAK",
+    "position": "C",
+    "points": 67,
+    "gamesPlayed": 80,
+    "ppg": 0.84
+  },
+  {
+    "name": "Andrei Kuzmenko",
+    "team": "LAK",
+    "position": "L",
+    "points": 37,
+    "gamesPlayed": 65,
+    "ppg": 0.57
+  },
+  {
+    "name": "Alex Laferriere",
+    "team": "LAK",
+    "position": "R",
+    "points": 42,
+    "gamesPlayed": 76,
+    "ppg": 0.55
+  },
+  {
+    "name": "Trevor Lewis",
+    "team": "LAK",
+    "position": "C",
+    "points": 12,
+    "gamesPlayed": 59,
+    "ppg": 0.2
+  },
+  {
+    "name": "Jeff Malott",
+    "team": "LAK",
+    "position": "L",
+    "points": 1,
+    "gamesPlayed": 11,
+    "ppg": 0.09
+  },
+  {
+    "name": "Trevor Moore",
+    "team": "LAK",
+    "position": "L",
+    "points": 40,
+    "gamesPlayed": 71,
+    "ppg": 0.56
+  },
+  {
+    "name": "Akil Thomas",
+    "team": "LAK",
+    "position": "C",
+    "points": 3,
+    "gamesPlayed": 24,
+    "ppg": 0.13
+  },
+  {
+    "name": "Alex Turcotte",
+    "team": "LAK",
+    "position": "C",
+    "points": 25,
+    "gamesPlayed": 67,
+    "ppg": 0.37
+  },
+  {
+    "name": "Mikey Anderson",
+    "team": "LAK",
+    "position": "D",
+    "points": 24,
+    "gamesPlayed": 76,
+    "ppg": 0.32
+  },
+  {
+    "name": "Kyle Burroughs",
+    "team": "LAK",
+    "position": "D",
+    "points": 3,
+    "gamesPlayed": 33,
+    "ppg": 0.09
+  },
+  {
+    "name": "Brandt Clarke",
+    "team": "LAK",
+    "position": "D",
+    "points": 32,
+    "gamesPlayed": 77,
+    "ppg": 0.42
+  },
+  {
+    "name": "Drew Doughty",
+    "team": "LAK",
+    "position": "D",
+    "points": 17,
+    "gamesPlayed": 29,
+    "ppg": 0.59
+  },
+  {
+    "name": "Joel Edmundson",
+    "team": "LAK",
+    "position": "D",
+    "points": 20,
+    "gamesPlayed": 72,
+    "ppg": 0.28
+  },
+  {
+    "name": "Vladislav Gavrikov",
+    "team": "LAK",
+    "position": "D",
+    "points": 30,
+    "gamesPlayed": 81,
+    "ppg": 0.37
+  },
+  {
+    "name": "Jacob Moverare",
+    "team": "LAK",
+    "position": "D",
+    "points": 8,
+    "gamesPlayed": 49,
+    "ppg": 0.16
+  },
+  {
+    "name": "Jordan Spence",
+    "team": "LAK",
+    "position": "D",
+    "points": 27,
+    "gamesPlayed": 78,
+    "ppg": 0.35
+  },
+  {
+    "name": "Viktor Arvidsson",
+    "team": "EDM",
+    "position": "L",
+    "points": 27,
+    "gamesPlayed": 67,
+    "ppg": 0.4
+  },
+  {
+    "name": "Connor Brown",
+    "team": "EDM",
+    "position": "R",
+    "points": 30,
+    "gamesPlayed": 82,
+    "ppg": 0.37
+  },
+  {
+    "name": "Leon Draisaitl",
+    "team": "EDM",
+    "position": "C",
+    "points": 106,
+    "gamesPlayed": 71,
+    "ppg": 1.49
+  },
+  {
+    "name": "Trent Frederic",
+    "team": "EDM",
+    "position": "C",
+    "points": 15,
+    "gamesPlayed": 58,
+    "ppg": 0.26
+  },
+  {
+    "name": "Adam Henrique",
+    "team": "EDM",
+    "position": "C",
+    "points": 27,
+    "gamesPlayed": 81,
+    "ppg": 0.33
+  },
+  {
+    "name": "Zach Hyman",
+    "team": "EDM",
+    "position": "L",
+    "points": 44,
+    "gamesPlayed": 73,
+    "ppg": 0.6
+  },
+  {
+    "name": "Mattias Janmark",
+    "team": "EDM",
+    "position": "C",
+    "points": 18,
+    "gamesPlayed": 80,
+    "ppg": 0.23
+  },
+  {
+    "name": "Max Jones",
+    "team": "EDM",
+    "position": "L",
+    "points": 2,
+    "gamesPlayed": 26,
+    "ppg": 0.08
+  },
+  {
+    "name": "Kasperi Kapanen",
+    "team": "EDM",
+    "position": "R",
+    "points": 14,
+    "gamesPlayed": 67,
+    "ppg": 0.21
+  },
+  {
+    "name": "Connor McDavid",
+    "team": "EDM",
+    "position": "C",
+    "points": 100,
+    "gamesPlayed": 67,
+    "ppg": 1.49
+  },
+  {
+    "name": "Ryan Nugent-Hopkins",
+    "team": "EDM",
+    "position": "C",
+    "points": 49,
+    "gamesPlayed": 78,
+    "ppg": 0.63
+  },
+  {
+    "name": "Corey Perry",
+    "team": "EDM",
+    "position": "R",
+    "points": 30,
+    "gamesPlayed": 81,
+    "ppg": 0.37
+  },
+  {
+    "name": "Vasily Podkolzin",
+    "team": "EDM",
+    "position": "R",
+    "points": 24,
+    "gamesPlayed": 82,
+    "ppg": 0.29
+  },
+  {
+    "name": "Jeff Skinner",
+    "team": "EDM",
+    "position": "C",
+    "points": 29,
+    "gamesPlayed": 72,
+    "ppg": 0.4
+  },
+  {
+    "name": "Evan Bouchard",
+    "team": "EDM",
+    "position": "D",
+    "points": 67,
+    "gamesPlayed": 82,
+    "ppg": 0.82
+  },
+  {
+    "name": "Joshua Brown",
+    "team": "EDM",
+    "position": "D",
+    "points": 1,
+    "gamesPlayed": 10,
+    "ppg": 0.1
+  },
+  {
+    "name": "Mattias Ekholm",
+    "team": "EDM",
+    "position": "D",
+    "points": 33,
+    "gamesPlayed": 65,
+    "ppg": 0.51
+  },
+  {
+    "name": "Ty Emberson",
+    "team": "EDM",
+    "position": "D",
+    "points": 13,
+    "gamesPlayed": 76,
+    "ppg": 0.17
+  },
+  {
+    "name": "John Klingberg",
+    "team": "EDM",
+    "position": "D",
+    "points": 4,
+    "gamesPlayed": 11,
+    "ppg": 0.36
+  },
+  {
+    "name": "Brett Kulak",
+    "team": "EDM",
+    "position": "D",
+    "points": 25,
+    "gamesPlayed": 82,
+    "ppg": 0.3
+  },
+  {
+    "name": "Darnell Nurse",
+    "team": "EDM",
+    "position": "D",
+    "points": 33,
+    "gamesPlayed": 76,
+    "ppg": 0.43
+  },
+  {
+    "name": "Troy Stecher",
+    "team": "EDM",
+    "position": "D",
+    "points": 7,
+    "gamesPlayed": 66,
+    "ppg": 0.11
+  },
+  {
+    "name": "Jake Walman",
+    "team": "EDM",
+    "position": "D",
+    "points": 40,
+    "gamesPlayed": 65,
+    "ppg": 0.62
+  }
+]

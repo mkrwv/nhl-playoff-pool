@@ -1,0 +1,181 @@
+body {
+  font-family: sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  background: #ffffff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+h1, h2 {
+  margin-bottom: 0.5rem;
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.filters select,
+.filters input {
+  padding: 0.5rem;
+  font-size: 1rem;
+  flex: 1;
+  min-width: 150px;
+}
+
+.columns {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.column.main {
+  flex: 2 1 60%;
+}
+
+.column.sidebar {
+  flex: 1 1 35%;
+}
+
+.player-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.player {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+  background-color: #e7f3ff;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.player:hover {
+  background-color: #d0e7ff;
+}
+
+.player-info {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.player-buttons {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.player button,
+.confirmation-buttons button {
+  padding: 0.3rem 0.7rem;
+  font-size: 0.9rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.confirmation-buttons button:nth-child(2),
+.player button:nth-child(2) {
+  background-color: #dc3545;
+}
+
+.player button:hover,
+.confirmation-buttons button:hover {
+  opacity: 0.9;
+}
+
+.my-team,
+.opponent-picks ul {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 2rem;
+}
+
+.my-team li,
+.opponent-picks li {
+  padding: 0.3rem 0.5rem;
+  background-color: #e6ffe6;
+  margin-bottom: 0.3rem;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.opponent-picks li {
+  background-color: #ffe6e6;
+}
+
+.opponent-picks input {
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.my-team li button,
+.opponent-picks li button {
+  margin-left: auto;
+  background: transparent;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+  color: #888;
+}
+
+.my-team li button:hover,
+.opponent-picks li button:hover {
+  color: #000;
+}
+
+.column.sidebar p {
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+/* Suggestions Dropdown */
+.opponent-picks ul li:hover {
+  background-color: #f0d0d0;
+  cursor: pointer;
+}
+
+/* Team Logos (headshots) */
+.team-logo {
+  height: 24px;
+  width: 24px;
+  border-radius: 50%;
+  object-fit: cover;
+  background-color: #fff;
+  border: 1px solid #ccc;
+}
+
+/* Grey out players from opposing teams */
+.player.opposing-player {
+  background-color: #f2f2f2 !important;
+  color: #999;
+}
+
+.player.opposing-player .player-info {
+  opacity: 0.6;
+}
