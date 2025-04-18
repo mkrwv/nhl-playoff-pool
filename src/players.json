@@ -4,24 +4,24 @@
     "team": "TOR",
     "position": "C",
     "points": 33,
-    "gamesPlayed": 73,
+    "gamesPlayed": 74,
     "ppg": 0.45
   },
   {
     "name": "Pontus Holmberg",
     "team": "TOR",
     "position": "R",
-    "points": 18,
-    "gamesPlayed": 67,
-    "ppg": 0.27
+    "points": 19,
+    "gamesPlayed": 68,
+    "ppg": 0.28
   },
   {
     "name": "Calle Jarnkrok",
     "team": "TOR",
     "position": "C",
-    "points": 6,
-    "gamesPlayed": 18,
-    "ppg": 0.33
+    "points": 7,
+    "gamesPlayed": 19,
+    "ppg": 0.37
   },
   {
     "name": "David Kampf",
@@ -35,57 +35,57 @@
     "name": "Matthew Knies",
     "team": "TOR",
     "position": "L",
-    "points": 56,
-    "gamesPlayed": 77,
-    "ppg": 0.73
+    "points": 58,
+    "gamesPlayed": 78,
+    "ppg": 0.74
   },
   {
     "name": "Scott Laughton",
     "team": "TOR",
     "position": "L",
-    "points": 30,
-    "gamesPlayed": 79,
-    "ppg": 0.38
+    "points": 31,
+    "gamesPlayed": 80,
+    "ppg": 0.39
   },
   {
     "name": "Steven Lorentz",
     "team": "TOR",
     "position": "C",
-    "points": 18,
-    "gamesPlayed": 79,
-    "ppg": 0.23
+    "points": 19,
+    "gamesPlayed": 80,
+    "ppg": 0.24
   },
   {
     "name": "Mitch Marner",
     "team": "TOR",
     "position": "R",
-    "points": 100,
-    "gamesPlayed": 80,
-    "ppg": 1.25
+    "points": 102,
+    "gamesPlayed": 81,
+    "ppg": 1.26
   },
   {
     "name": "Auston Matthews",
     "team": "TOR",
     "position": "C",
-    "points": 77,
-    "gamesPlayed": 66,
-    "ppg": 1.17
+    "points": 78,
+    "gamesPlayed": 67,
+    "ppg": 1.16
   },
   {
     "name": "Bobby McMann",
     "team": "TOR",
     "position": "C",
     "points": 34,
-    "gamesPlayed": 73,
-    "ppg": 0.47
+    "gamesPlayed": 74,
+    "ppg": 0.46
   },
   {
     "name": "William Nylander",
     "team": "TOR",
     "position": "R",
     "points": 84,
-    "gamesPlayed": 81,
-    "ppg": 1.04
+    "gamesPlayed": 82,
+    "ppg": 1.02
   },
   {
     "name": "Max Pacioretty",
@@ -100,7 +100,7 @@
     "team": "TOR",
     "position": "L",
     "points": 22,
-    "gamesPlayed": 68,
+    "gamesPlayed": 69,
     "ppg": 0.32
   },
   {
@@ -108,15 +108,15 @@
     "team": "TOR",
     "position": "C",
     "points": 74,
-    "gamesPlayed": 74,
-    "ppg": 1
+    "gamesPlayed": 75,
+    "ppg": 0.99
   },
   {
     "name": "Simon Benoit",
     "team": "TOR",
     "position": "D",
     "points": 10,
-    "gamesPlayed": 77,
+    "gamesPlayed": 78,
     "ppg": 0.13
   },
   {
@@ -124,8 +124,8 @@
     "team": "TOR",
     "position": "D",
     "points": 12,
-    "gamesPlayed": 82,
-    "ppg": 0.15
+    "gamesPlayed": 83,
+    "ppg": 0.14
   },
   {
     "name": "Oliver Ekman-Larsson",
@@ -144,84 +144,92 @@
     "ppg": 0.35
   },
   {
+    "name": "Dakota Mermis",
+    "team": "TOR",
+    "position": "D",
+    "points": 1,
+    "gamesPlayed": 4,
+    "ppg": 0.25
+  },
+  {
     "name": "Philippe Myers",
     "team": "TOR",
     "position": "D",
-    "points": 4,
-    "gamesPlayed": 35,
-    "ppg": 0.11
+    "points": 5,
+    "gamesPlayed": 36,
+    "ppg": 0.14
   },
   {
     "name": "Morgan Rielly",
     "team": "TOR",
     "position": "D",
     "points": 41,
-    "gamesPlayed": 81,
-    "ppg": 0.51
+    "gamesPlayed": 82,
+    "ppg": 0.5
   },
   {
     "name": "Chris Tanev",
     "team": "TOR",
     "position": "D",
-    "points": 17,
-    "gamesPlayed": 74,
-    "ppg": 0.23
+    "points": 18,
+    "gamesPlayed": 75,
+    "ppg": 0.24
   },
   {
     "name": "Michael Amadio",
     "team": "OTT",
     "position": "R",
-    "points": 26,
-    "gamesPlayed": 71,
-    "ppg": 0.37
+    "points": 27,
+    "gamesPlayed": 72,
+    "ppg": 0.38
   },
   {
     "name": "Drake Batherson",
     "team": "OTT",
     "position": "R",
-    "points": 65,
-    "gamesPlayed": 81,
-    "ppg": 0.8
+    "points": 68,
+    "gamesPlayed": 82,
+    "ppg": 0.83
   },
   {
     "name": "Nick Cousins",
     "team": "OTT",
     "position": "C",
-    "points": 14,
-    "gamesPlayed": 49,
-    "ppg": 0.29
+    "points": 15,
+    "gamesPlayed": 50,
+    "ppg": 0.3
   },
   {
     "name": "Dylan Cozens",
     "team": "OTT",
     "position": "C",
-    "points": 44,
-    "gamesPlayed": 81,
-    "ppg": 0.54
+    "points": 47,
+    "gamesPlayed": 82,
+    "ppg": 0.57
   },
   {
     "name": "Adam Gaudette",
     "team": "OTT",
     "position": "R",
-    "points": 24,
-    "gamesPlayed": 80,
-    "ppg": 0.3
+    "points": 26,
+    "gamesPlayed": 81,
+    "ppg": 0.32
   },
   {
     "name": "Claude Giroux",
     "team": "OTT",
     "position": "R",
     "points": 50,
-    "gamesPlayed": 80,
-    "ppg": 0.63
+    "gamesPlayed": 81,
+    "ppg": 0.62
   },
   {
     "name": "Ridly Greig",
     "team": "OTT",
     "position": "C",
-    "points": 33,
-    "gamesPlayed": 77,
-    "ppg": 0.43
+    "points": 34,
+    "gamesPlayed": 78,
+    "ppg": 0.44
   },
   {
     "name": "Matthew Highmore",
@@ -236,40 +244,40 @@
     "team": "OTT",
     "position": "L",
     "points": 16,
-    "gamesPlayed": 42,
-    "ppg": 0.38
+    "gamesPlayed": 43,
+    "ppg": 0.37
   },
   {
     "name": "Shane Pinto",
     "team": "OTT",
     "position": "C",
-    "points": 36,
-    "gamesPlayed": 69,
-    "ppg": 0.52
+    "points": 37,
+    "gamesPlayed": 70,
+    "ppg": 0.53
   },
   {
     "name": "Tim Stützle",
     "team": "OTT",
     "position": "C",
-    "points": 76,
-    "gamesPlayed": 81,
-    "ppg": 0.94
+    "points": 79,
+    "gamesPlayed": 82,
+    "ppg": 0.96
   },
   {
     "name": "Brady Tkachuk",
     "team": "OTT",
     "position": "L",
     "points": 55,
-    "gamesPlayed": 71,
-    "ppg": 0.77
+    "gamesPlayed": 72,
+    "ppg": 0.76
   },
   {
     "name": "Fabian Zetterlund",
     "team": "OTT",
     "position": "L",
-    "points": 40,
-    "gamesPlayed": 83,
-    "ppg": 0.48
+    "points": 41,
+    "gamesPlayed": 84,
+    "ppg": 0.49
   },
   {
     "name": "Thomas Chabot",
@@ -284,7 +292,7 @@
     "team": "OTT",
     "position": "D",
     "points": 6,
-    "gamesPlayed": 28,
+    "gamesPlayed": 29,
     "ppg": 0.21
   },
   {
@@ -292,7 +300,7 @@
     "team": "OTT",
     "position": "D",
     "points": 7,
-    "gamesPlayed": 58,
+    "gamesPlayed": 59,
     "ppg": 0.12
   },
   {
@@ -300,32 +308,32 @@
     "team": "OTT",
     "position": "D",
     "points": 21,
-    "gamesPlayed": 70,
+    "gamesPlayed": 71,
     "ppg": 0.3
   },
   {
     "name": "Tyler Kleven",
     "team": "OTT",
     "position": "D",
-    "points": 9,
-    "gamesPlayed": 78,
-    "ppg": 0.12
+    "points": 10,
+    "gamesPlayed": 79,
+    "ppg": 0.13
   },
   {
     "name": "Nikolas Matinpalo",
     "team": "OTT",
     "position": "D",
     "points": 4,
-    "gamesPlayed": 40,
+    "gamesPlayed": 41,
     "ppg": 0.1
   },
   {
     "name": "Jake Sanderson",
     "team": "OTT",
     "position": "D",
-    "points": 55,
-    "gamesPlayed": 79,
-    "ppg": 0.7
+    "points": 57,
+    "gamesPlayed": 80,
+    "ppg": 0.71
   },
   {
     "name": "Artem Zub",
@@ -340,8 +348,8 @@
     "team": "TBL",
     "position": "R",
     "points": 9,
-    "gamesPlayed": 38,
-    "ppg": 0.24
+    "gamesPlayed": 39,
+    "ppg": 0.23
   },
   {
     "name": "Oliver Bjorkstrand",
@@ -364,15 +372,15 @@
     "team": "TBL",
     "position": "C",
     "points": 59,
-    "gamesPlayed": 79,
-    "ppg": 0.75
+    "gamesPlayed": 80,
+    "ppg": 0.74
   },
   {
     "name": "Conor Geekie",
     "team": "TBL",
     "position": "C",
     "points": 14,
-    "gamesPlayed": 51,
+    "gamesPlayed": 52,
     "ppg": 0.27
   },
   {
@@ -380,7 +388,7 @@
     "team": "TBL",
     "position": "C",
     "points": 6,
-    "gamesPlayed": 81,
+    "gamesPlayed": 82,
     "ppg": 0.07
   },
   {
@@ -396,63 +404,63 @@
     "team": "TBL",
     "position": "C",
     "points": 20,
-    "gamesPlayed": 59,
-    "ppg": 0.34
+    "gamesPlayed": 60,
+    "ppg": 0.33
   },
   {
     "name": "Yanni Gourde",
     "team": "TBL",
     "position": "C",
     "points": 31,
-    "gamesPlayed": 56,
-    "ppg": 0.55
+    "gamesPlayed": 57,
+    "ppg": 0.54
   },
   {
     "name": "Jake Guentzel",
     "team": "TBL",
     "position": "C",
     "points": 80,
-    "gamesPlayed": 79,
-    "ppg": 1.01
+    "gamesPlayed": 80,
+    "ppg": 1
   },
   {
     "name": "Brandon Hagel",
     "team": "TBL",
     "position": "L",
     "points": 90,
-    "gamesPlayed": 81,
-    "ppg": 1.11
+    "gamesPlayed": 82,
+    "ppg": 1.1
   },
   {
     "name": "Nikita Kucherov",
     "team": "TBL",
     "position": "R",
     "points": 121,
-    "gamesPlayed": 77,
-    "ppg": 1.57
+    "gamesPlayed": 78,
+    "ppg": 1.55
   },
   {
     "name": "Nick Paul",
     "team": "TBL",
     "position": "L",
     "points": 41,
-    "gamesPlayed": 75,
-    "ppg": 0.55
+    "gamesPlayed": 76,
+    "ppg": 0.54
   },
   {
     "name": "Brayden Point",
     "team": "TBL",
     "position": "C",
     "points": 82,
-    "gamesPlayed": 76,
-    "ppg": 1.08
+    "gamesPlayed": 77,
+    "ppg": 1.06
   },
   {
     "name": "Erik Cernak",
     "team": "TBL",
     "position": "D",
     "points": 21,
-    "gamesPlayed": 75,
+    "gamesPlayed": 76,
     "ppg": 0.28
   },
   {
@@ -460,15 +468,15 @@
     "team": "TBL",
     "position": "D",
     "points": 66,
-    "gamesPlayed": 78,
-    "ppg": 0.85
+    "gamesPlayed": 79,
+    "ppg": 0.84
   },
   {
     "name": "Emil Lilleberg",
     "team": "TBL",
     "position": "D",
     "points": 19,
-    "gamesPlayed": 75,
+    "gamesPlayed": 76,
     "ppg": 0.25
   },
   {
@@ -476,7 +484,7 @@
     "team": "TBL",
     "position": "D",
     "points": 31,
-    "gamesPlayed": 81,
+    "gamesPlayed": 82,
     "ppg": 0.38
   },
   {
@@ -484,7 +492,7 @@
     "team": "TBL",
     "position": "D",
     "points": 14,
-    "gamesPlayed": 53,
+    "gamesPlayed": 54,
     "ppg": 0.26
   },
   {
@@ -492,7 +500,7 @@
     "team": "TBL",
     "position": "D",
     "points": 19,
-    "gamesPlayed": 73,
+    "gamesPlayed": 74,
     "ppg": 0.26
   },
   {
@@ -500,7 +508,7 @@
     "team": "TBL",
     "position": "D",
     "points": 37,
-    "gamesPlayed": 72,
+    "gamesPlayed": 73,
     "ppg": 0.51
   },
   {
@@ -692,7 +700,7 @@
     "team": "WSH",
     "position": "L",
     "points": 25,
-    "gamesPlayed": 80,
+    "gamesPlayed": 81,
     "ppg": 0.31
   },
   {
@@ -700,15 +708,15 @@
     "team": "WSH",
     "position": "C",
     "points": 27,
-    "gamesPlayed": 81,
+    "gamesPlayed": 82,
     "ppg": 0.33
   },
   {
     "name": "Pierre-Luc Dubois",
     "team": "WSH",
     "position": "L",
-    "points": 65,
-    "gamesPlayed": 81,
+    "points": 66,
+    "gamesPlayed": 82,
     "ppg": 0.8
   },
   {
@@ -716,7 +724,7 @@
     "team": "WSH",
     "position": "R",
     "points": 21,
-    "gamesPlayed": 81,
+    "gamesPlayed": 82,
     "ppg": 0.26
   },
   {
@@ -724,7 +732,7 @@
     "team": "WSH",
     "position": "C",
     "points": 22,
-    "gamesPlayed": 79,
+    "gamesPlayed": 80,
     "ppg": 0.28
   },
   {
@@ -732,32 +740,32 @@
     "team": "WSH",
     "position": "C",
     "points": 7,
-    "gamesPlayed": 23,
-    "ppg": 0.3
+    "gamesPlayed": 24,
+    "ppg": 0.29
   },
   {
     "name": "Ryan Leonard",
     "team": "WSH",
     "position": "R",
     "points": 1,
-    "gamesPlayed": 8,
-    "ppg": 0.13
+    "gamesPlayed": 9,
+    "ppg": 0.11
   },
   {
     "name": "Andrew Mangiapane",
     "team": "WSH",
     "position": "L",
     "points": 28,
-    "gamesPlayed": 80,
+    "gamesPlayed": 81,
     "ppg": 0.35
   },
   {
     "name": "Connor McMichael",
     "team": "WSH",
     "position": "C",
-    "points": 56,
-    "gamesPlayed": 81,
-    "ppg": 0.69
+    "points": 57,
+    "gamesPlayed": 82,
+    "ppg": 0.7
   },
   {
     "name": "T.J. Oshie",
@@ -771,9 +779,9 @@
     "name": "Alex Ovechkin",
     "team": "WSH",
     "position": "L",
-    "points": 72,
-    "gamesPlayed": 64,
-    "ppg": 1.13
+    "points": 73,
+    "gamesPlayed": 65,
+    "ppg": 1.12
   },
   {
     "name": "Aliaksei Protas",
@@ -788,23 +796,23 @@
     "team": "WSH",
     "position": "R",
     "points": 27,
-    "gamesPlayed": 79,
+    "gamesPlayed": 80,
     "ppg": 0.34
   },
   {
     "name": "Dylan Strome",
     "team": "WSH",
     "position": "C",
-    "points": 81,
-    "gamesPlayed": 81,
+    "points": 82,
+    "gamesPlayed": 82,
     "ppg": 1
   },
   {
     "name": "Tom Wilson",
     "team": "WSH",
     "position": "R",
-    "points": 64,
-    "gamesPlayed": 80,
+    "points": 65,
+    "gamesPlayed": 81,
     "ppg": 0.8
   },
   {
@@ -820,7 +828,7 @@
     "team": "WSH",
     "position": "D",
     "points": 47,
-    "gamesPlayed": 73,
+    "gamesPlayed": 74,
     "ppg": 0.64
   },
   {
@@ -836,8 +844,8 @@
     "team": "WSH",
     "position": "D",
     "points": 2,
-    "gamesPlayed": 16,
-    "ppg": 0.13
+    "gamesPlayed": 17,
+    "ppg": 0.12
   },
   {
     "name": "Matt Roy",
@@ -852,7 +860,7 @@
     "team": "WSH",
     "position": "D",
     "points": 30,
-    "gamesPlayed": 81,
+    "gamesPlayed": 82,
     "ppg": 0.37
   },
   {
@@ -860,7 +868,7 @@
     "team": "WSH",
     "position": "D",
     "points": 21,
-    "gamesPlayed": 81,
+    "gamesPlayed": 82,
     "ppg": 0.26
   },
   {
@@ -1048,28 +1056,36 @@
     "ppg": 0.42
   },
   {
+    "name": "Skyler Brind'Amour",
+    "team": "CAR",
+    "position": "C",
+    "points": 1,
+    "gamesPlayed": 2,
+    "ppg": 0.5
+  },
+  {
     "name": "William Carrier",
     "team": "CAR",
     "position": "L",
-    "points": 10,
-    "gamesPlayed": 42,
-    "ppg": 0.24
+    "points": 11,
+    "gamesPlayed": 43,
+    "ppg": 0.26
   },
   {
     "name": "Taylor Hall",
     "team": "CAR",
     "position": "L",
-    "points": 40,
-    "gamesPlayed": 76,
-    "ppg": 0.53
+    "points": 42,
+    "gamesPlayed": 77,
+    "ppg": 0.55
   },
   {
     "name": "Mark Jankowski",
     "team": "CAR",
     "position": "C",
     "points": 17,
-    "gamesPlayed": 59,
-    "ppg": 0.29
+    "gamesPlayed": 60,
+    "ppg": 0.28
   },
   {
     "name": "Seth Jarvis",
@@ -1083,16 +1099,16 @@
     "name": "Tyson Jost",
     "team": "CAR",
     "position": "C",
-    "points": 8,
-    "gamesPlayed": 38,
-    "ppg": 0.21
+    "points": 9,
+    "gamesPlayed": 39,
+    "ppg": 0.23
   },
   {
     "name": "Jesperi Kotkaniemi",
     "team": "CAR",
     "position": "C",
-    "points": 32,
-    "gamesPlayed": 77,
+    "points": 33,
+    "gamesPlayed": 78,
     "ppg": 0.42
   },
   {
@@ -1108,24 +1124,24 @@
     "team": "CAR",
     "position": "L",
     "points": 1,
-    "gamesPlayed": 1,
-    "ppg": 1
+    "gamesPlayed": 2,
+    "ppg": 0.5
   },
   {
     "name": "Eric Robinson",
     "team": "CAR",
     "position": "L",
     "points": 32,
-    "gamesPlayed": 81,
-    "ppg": 0.4
+    "gamesPlayed": 82,
+    "ppg": 0.39
   },
   {
     "name": "Jack Roslovic",
     "team": "CAR",
     "position": "C",
-    "points": 38,
-    "gamesPlayed": 80,
-    "ppg": 0.47
+    "points": 39,
+    "gamesPlayed": 81,
+    "ppg": 0.48
   },
   {
     "name": "Jordan Staal",
@@ -1139,25 +1155,25 @@
     "name": "Logan Stankoven",
     "team": "CAR",
     "position": "C",
-    "points": 37,
-    "gamesPlayed": 77,
-    "ppg": 0.48
+    "points": 38,
+    "gamesPlayed": 78,
+    "ppg": 0.49
   },
   {
     "name": "Andrei Svechnikov",
     "team": "CAR",
     "position": "R",
-    "points": 46,
-    "gamesPlayed": 71,
-    "ppg": 0.65
+    "points": 48,
+    "gamesPlayed": 72,
+    "ppg": 0.67
   },
   {
     "name": "Brent Burns",
     "team": "CAR",
     "position": "D",
     "points": 29,
-    "gamesPlayed": 81,
-    "ppg": 0.36
+    "gamesPlayed": 82,
+    "ppg": 0.35
   },
   {
     "name": "Jalen Chatfield",
@@ -1171,24 +1187,24 @@
     "name": "Shayne Gostisbehere",
     "team": "CAR",
     "position": "D",
-    "points": 44,
-    "gamesPlayed": 69,
+    "points": 45,
+    "gamesPlayed": 70,
     "ppg": 0.64
   },
   {
     "name": "Scott Morrow",
     "team": "CAR",
     "position": "D",
-    "points": 5,
-    "gamesPlayed": 13,
-    "ppg": 0.38
+    "points": 6,
+    "gamesPlayed": 14,
+    "ppg": 0.43
   },
   {
     "name": "Dmitry Orlov",
     "team": "CAR",
     "position": "D",
     "points": 28,
-    "gamesPlayed": 75,
+    "gamesPlayed": 76,
     "ppg": 0.37
   },
   {
@@ -1204,7 +1220,7 @@
     "team": "CAR",
     "position": "D",
     "points": 16,
-    "gamesPlayed": 81,
+    "gamesPlayed": 82,
     "ppg": 0.2
   },
   {
@@ -2484,8 +2500,8 @@
     "team": "LAK",
     "position": "R",
     "points": 54,
-    "gamesPlayed": 80,
-    "ppg": 0.68
+    "gamesPlayed": 81,
+    "ppg": 0.67
   },
   {
     "name": "Phillip Danault",
@@ -2500,23 +2516,23 @@
     "team": "LAK",
     "position": "L",
     "points": 60,
-    "gamesPlayed": 80,
-    "ppg": 0.75
+    "gamesPlayed": 81,
+    "ppg": 0.74
   },
   {
     "name": "Warren Foegele",
     "team": "LAK",
     "position": "L",
     "points": 46,
-    "gamesPlayed": 81,
-    "ppg": 0.57
+    "gamesPlayed": 82,
+    "ppg": 0.56
   },
   {
     "name": "Samuel Helenius",
     "team": "LAK",
     "position": "C",
     "points": 7,
-    "gamesPlayed": 49,
+    "gamesPlayed": 50,
     "ppg": 0.14
   },
   {
@@ -2540,23 +2556,23 @@
     "team": "LAK",
     "position": "C",
     "points": 67,
-    "gamesPlayed": 80,
-    "ppg": 0.84
+    "gamesPlayed": 81,
+    "ppg": 0.83
   },
   {
     "name": "Andrei Kuzmenko",
     "team": "LAK",
     "position": "L",
     "points": 37,
-    "gamesPlayed": 65,
-    "ppg": 0.57
+    "gamesPlayed": 66,
+    "ppg": 0.56
   },
   {
     "name": "Alex Laferriere",
     "team": "LAK",
     "position": "R",
     "points": 42,
-    "gamesPlayed": 76,
+    "gamesPlayed": 77,
     "ppg": 0.55
   },
   {
@@ -2564,7 +2580,7 @@
     "team": "LAK",
     "position": "C",
     "points": 12,
-    "gamesPlayed": 59,
+    "gamesPlayed": 60,
     "ppg": 0.2
   },
   {
@@ -2572,8 +2588,8 @@
     "team": "LAK",
     "position": "L",
     "points": 1,
-    "gamesPlayed": 11,
-    "ppg": 0.09
+    "gamesPlayed": 12,
+    "ppg": 0.08
   },
   {
     "name": "Trevor Moore",
@@ -2588,24 +2604,32 @@
     "team": "LAK",
     "position": "C",
     "points": 3,
-    "gamesPlayed": 24,
-    "ppg": 0.13
+    "gamesPlayed": 25,
+    "ppg": 0.12
   },
   {
     "name": "Alex Turcotte",
     "team": "LAK",
     "position": "C",
     "points": 25,
-    "gamesPlayed": 67,
+    "gamesPlayed": 68,
     "ppg": 0.37
+  },
+  {
+    "name": "Taylor Ward",
+    "team": "LAK",
+    "position": "R",
+    "points": 1,
+    "gamesPlayed": 1,
+    "ppg": 1
   },
   {
     "name": "Mikey Anderson",
     "team": "LAK",
     "position": "D",
     "points": 24,
-    "gamesPlayed": 76,
-    "ppg": 0.32
+    "gamesPlayed": 77,
+    "ppg": 0.31
   },
   {
     "name": "Kyle Burroughs",
@@ -2619,8 +2643,8 @@
     "name": "Brandt Clarke",
     "team": "LAK",
     "position": "D",
-    "points": 32,
-    "gamesPlayed": 77,
+    "points": 33,
+    "gamesPlayed": 78,
     "ppg": 0.42
   },
   {
@@ -2628,23 +2652,23 @@
     "team": "LAK",
     "position": "D",
     "points": 17,
-    "gamesPlayed": 29,
-    "ppg": 0.59
+    "gamesPlayed": 30,
+    "ppg": 0.57
   },
   {
     "name": "Joel Edmundson",
     "team": "LAK",
     "position": "D",
     "points": 20,
-    "gamesPlayed": 72,
-    "ppg": 0.28
+    "gamesPlayed": 73,
+    "ppg": 0.27
   },
   {
     "name": "Vladislav Gavrikov",
     "team": "LAK",
     "position": "D",
     "points": 30,
-    "gamesPlayed": 81,
+    "gamesPlayed": 82,
     "ppg": 0.37
   },
   {
@@ -2659,8 +2683,8 @@
     "name": "Jordan Spence",
     "team": "LAK",
     "position": "D",
-    "points": 27,
-    "gamesPlayed": 78,
+    "points": 28,
+    "gamesPlayed": 79,
     "ppg": 0.35
   },
   {
@@ -2726,6 +2750,14 @@
     "points": 2,
     "gamesPlayed": 26,
     "ppg": 0.08
+  },
+  {
+    "name": "Evander Kane",
+    "team": "EDM",
+    "position": "L",
+    "points": 44,
+    "gamesPlayed": 77,
+    "ppg": 0.57
   },
   {
     "name": "Kasperi Kapanen",

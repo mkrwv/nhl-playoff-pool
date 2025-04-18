@@ -42,10 +42,12 @@ h1, h2 {
 
 .column.main {
   flex: 2 1 60%;
+  order: 2;
 }
 
 .column.sidebar {
   flex: 1 1 35%;
+  order: 1;
 }
 
 .player-list {
@@ -154,13 +156,26 @@ h1, h2 {
   margin-bottom: 1rem;
 }
 
+.warning-box {
+  color: red;
+  margin-bottom: 1rem;
+}
+
+.confirmation-buttons {
+  margin-top: 0.5rem;
+}
+
+.confirmation-buttons button {
+  margin-right: 0.5rem;
+}
+
 /* Suggestions Dropdown */
 .opponent-picks ul li:hover {
   background-color: #f0d0d0;
   cursor: pointer;
 }
 
-/* Team Logos (headshots) */
+/* Headshot / Team Logo styling */
 .team-logo {
   height: 24px;
   width: 24px;
@@ -178,4 +193,56 @@ h1, h2 {
 
 .player.opposing-player .player-info {
   opacity: 0.6;
+}
+
+/* Responsive layout: swap columns */
+@media (max-width: 768px) {
+  .columns {
+    flex-direction: column;
+  }
+
+  .column.sidebar {
+    order: 1;
+  }
+
+  .column.main {
+    order: 2;
+  }
+
+  .filters {
+    flex-direction: column;
+  }
+
+  .player {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+
+  .player-buttons {
+    width: 100%;
+    justify-content: space-between;
+  }
+}
+/* Overlay Warning */
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 999;
+}
+
+.overlay-content {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  max-width: 400px;
+  text-align: center;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
 }

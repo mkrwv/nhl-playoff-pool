@@ -13,6 +13,17 @@ const playoffMatchups = {
   LAK: 'EDM', EDM: 'LAK'
 };
 
+const teamNames = {
+  TOR: 'Toronto Maple Leafs', OTT: 'Ottawa Senators',
+  TBL: 'Tampa Bay Lightning', FLA: 'Florida Panthers',
+  WSH: 'Washington Capitals', MTL: 'Montreal Canadiens',
+  CAR: 'Carolina Hurricanes', NJD: 'New Jersey Devils',
+  WPG: 'Winnipeg Jets', STL: 'St. Louis Blues',
+  DAL: 'Dallas Stars', COL: 'Colorado Avalanche',
+  VGK: 'Vegas Golden Knights', MIN: 'Minnesota Wild',
+  LAK: 'Los Angeles Kings', EDM: 'Edmonton Oilers'
+};
+
 const isForward = (pos) => ["C", "L", "R"].includes(pos);
 const isDefense = (pos) => pos === "D";
 
@@ -27,6 +38,10 @@ function App() {
   const [opponentSearch, setOpponentSearch] = useState('');
   const [warning, setWarning] = useState('');
   const [pendingPick, setPendingPick] = useState(null);
+
+  useEffect(() => {
+    document.title = 'Dadmobile Helper';
+  }, []);
 
   useEffect(() => {
     const saved = localStorage.getItem('nhl-draft');
@@ -108,19 +123,22 @@ function App() {
 
   const myForwards = myTeam.filter(name => isForward(players.find(p => p.name === name)?.position)).length;
   const myDefense = myTeam.filter(name => isDefense(players.find(p => p.name === name)?.position)).length;
+  const remainingPicks = 10 - myTeam.length;
 
   const getPlayerInfo = (name) => players.find(p => p.name === name);
 
   return (
     <div className="App">
-      <h1>NHL Playoff Draft Helper</h1>
+      <h1>Dadmobile Playoff Draft Helper</h1>
 
       {warning && (
-        <div style={{ color: 'red', marginBottom: '1rem' }}>
-          {warning}
-          <div style={{ marginTop: '0.5rem' }}>
-            <button onClick={() => confirmAddToMyTeam(pendingPick)}>Yes</button>{' '}
-            <button onClick={() => { setWarning(''); setPendingPick(null); }}>No</button>
+        <div className="overlay">
+          <div className="overlay-content">
+            <p>{warning}</p>
+            <div className="confirmation-buttons">
+              <button onClick={() => confirmAddToMyTeam(pendingPick)}>Yes</button>
+              <button onClick={() => { setWarning(''); setPendingPick(null); }}>No</button>
+            </div>
           </div>
         </div>
       )}
@@ -129,7 +147,7 @@ function App() {
         <select onChange={e => setTeamFilter(e.target.value)} value={teamFilter}>
           <option value=''>All Teams</option>
           {[...new Set(players.map(p => p.team))].sort().map(team => (
-            <option key={team} value={team}>{team}</option>
+            <option key={team} value={team}>{team} – {teamNames[team]}</option>
           ))}
         </select>
 
@@ -152,27 +170,16 @@ function App() {
         />
       </div>
 
-      <div className="columns">
-        <div className="column main">
-          <h2>Available Players</h2>
-          <div className="player-list">
-            {filteredPlayers.map(p => {
-              const isOpposing = myTeamOpposingTeams.has(p.team);
-              return (
-                <div key={p.name} className={`player${isOpposing ? ' opposing-player' : ''}`}>
-                  <div className="player-info">
-                    {p.headshot && <img src={p.headshot} alt="headshot" className="team-logo" />} {p.name} ({p.team}, {p.position}) – {p.points} PTS, {p.ppg} PPG
-                  </div>
-                  <div className="player-buttons">
-                    <button onClick={() => addToMyTeam(p.name)}>My Pick</button>
-                    <button onClick={() => addToOpponent(p.name)}>Opponent</button>
-                  </div>
-                </div>
-              );
-            })}
-          </div>
-        </div>
+      <div className="status-bar subtle-warning">
+        <p><strong>Picks Remaining:</strong> {remainingPicks}</p>
+        {myDefense < 2 && (
+          <p>
+            ⚠️ You need to pick {2 - myDefense} more defenseman{2 - myDefense > 1 ? 's' : ''}.
+          </p>
+        )}
+      </div>
 
+      <div className="columns">
         <div className="column sidebar">
           <h2>My Team</h2>
           <p>{myForwards} Forwards / {myDefense} Defense</p>
@@ -223,6 +230,26 @@ function App() {
                 );
               })}
             </ul>
+          </div>
+        </div>
+
+        <div className="column main">
+          <h2>Available Players</h2>
+          <div className="player-list">
+            {filteredPlayers.map(p => {
+              const isOpposing = myTeamOpposingTeams.has(p.team);
+              return (
+                <div key={p.name} className={`player${isOpposing ? ' opposing-player' : ''}`}>
+                  <div className="player-info">
+                    {p.headshot && <img src={p.headshot} alt="headshot" className="team-logo" />} {p.name} ({p.team}, {p.position}) – {p.points} PTS, {p.ppg} PPG
+                  </div>
+                  <div className="player-buttons">
+                    <button onClick={() => addToMyTeam(p.name)}>My Pick</button>
+                    <button onClick={() => addToOpponent(p.name)}>Opponent</button>
+                  </div>
+                </div>
+              );
+            })}
           </div>
         </div>
       </div>
