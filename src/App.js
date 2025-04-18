@@ -39,6 +39,7 @@ function App() {
   const [warning, setWarning] = useState('');
   const [pendingPick, setPendingPick] = useState(null);
   const [copiedPlayer, setCopiedPlayer] = useState(null);
+  const [expandedPlayer, setExpandedPlayer] = useState(null);
 
   useEffect(() => {
     document.title = 'Dadmobile Helper';
@@ -128,6 +129,10 @@ function App() {
 
   const getPlayerInfo = (name) => players.find(p => p.name === name);
 
+  const toggleExpandedPlayer = (name) => {
+    setExpandedPlayer(expandedPlayer === name ? null : name);
+  };
+
   return (
     <div className="App">
       <h1>Dadmobile Playoff Draft Helper</h1>
@@ -140,6 +145,20 @@ function App() {
               <button onClick={() => confirmAddToMyTeam(pendingPick)}>Yes</button>
               <button onClick={() => { setWarning(''); setPendingPick(null); }}>No</button>
             </div>
+          </div>
+        </div>
+      )}
+
+      {expandedPlayer && (
+        <div className="overlay" onClick={() => setExpandedPlayer(null)}>
+          <div className="overlay-content" onClick={e => e.stopPropagation()}>
+            <h3>{expandedPlayer}</h3>
+            <ul>
+              {Object.entries(getPlayerInfo(expandedPlayer)).map(([key, value]) => (
+                <li key={key}><strong>{key}:</strong> {value}</li>
+              ))}
+            </ul>
+            <button onClick={() => setExpandedPlayer(null)}>Close</button>
           </div>
         </div>
       )}
@@ -271,7 +290,7 @@ function App() {
               const isOpposing = myTeamOpposingTeams.has(p.team);
               return (
                 <div key={p.name} className={`player${isOpposing ? ' opposing-player' : ''}`}>
-                  <div className="player-info">
+                  <div className="player-info" onClick={() => toggleExpandedPlayer(p.name)} style={{ cursor: 'pointer' }}>
                     {p.headshot && <img src={p.headshot} alt="headshot" className="team-logo" />} {p.name} ({p.team}, {p.position}) – {p.points} PTS, {p.ppg} PPG
                   </div>
                   <div className="player-buttons">

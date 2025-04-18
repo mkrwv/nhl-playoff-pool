@@ -279,3 +279,124 @@ h1, h2 {
     justify-content: space-between;
   }
 }
+.player-details {
+  width: 100%;
+  margin-top: 0.5rem;
+  padding: 0.75rem;
+  background-color: #f9f9f9;
+  border-left: 4px solid #007bff;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  animation: slideDown 0.2s ease-out;
+}
+
+.player-details ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.player-details li {
+  margin-bottom: 0.25rem;
+}
+
+.player-details strong {
+  display: inline-block;
+  min-width: 100px;
+  font-weight: 600;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.player-stats-modal {
+  max-height: 80vh;
+  overflow-y: auto;
+  max-width: 500px;
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.25);
+  text-align: left;
+}
+
+.player-stats-modal h3 {
+  margin-top: 0;
+}
+
+.player-stats-modal ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.player-stats-modal li {
+  margin-bottom: 0.4rem;
+}
+/* Shared Overlay Base */
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 999;
+}
+
+/* Consistent Overlay Box Style */
+.overlay-content {
+  background: #fff;
+  padding: 2rem;
+  border-radius: 8px;
+  max-width: 300px;
+  width: 90%;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  animation: fadeIn 0.2s ease-in-out;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Optional animation */
+@keyframes fadeIn {
+  from { opacity: 0; transform: scale(0.95); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+/* Overlay close button */
+.overlay-content button {
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+  cursor: pointer;
+}
+
+.overlay-content h3 {
+  margin-top: 0;
+}
+
+.overlay-content ul {
+  list-style: none;
+  padding-left: 0;
+  text-align: left;
+}
+
+.overlay-content li {
+  margin-bottom: 0.5rem;
+}
